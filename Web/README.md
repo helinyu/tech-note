@@ -1,3 +1,3 @@
-# React
+# README
 
-React 知识的掌握和插件的开发
+第一个页面就是README的内容，下一次就创建一个README就好了
