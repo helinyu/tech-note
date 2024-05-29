@@ -1,6 +1,3 @@
-# Mac 知识和项目
+# iOS deve
 
-知识： screencapturekit
-
-项目：quickrecorder修改成为我自己的项目
-
+关于iOS的开发内容，上一次的内容没有备份丢失了，哎呀呀呀
