@@ -1,7 +1,6 @@
-# Page
+# Mac 知识和项目
 
-quick recorder&#x20;
+知识： screencapturekit
 
+项目：quickrecorder修改成为我自己的项目
 
-
-写的东西能不能够搞定？ 有点问题呀
