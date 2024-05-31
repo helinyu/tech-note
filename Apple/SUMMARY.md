@@ -1,8 +1,8 @@
 # Table of contents
 
-* [Mac 知识和项目](README.md)
-  * [cut](mac-zhi-shi-he-xiang-mu/cut.md)
-  * [Page 1](mac-zhi-shi-he-xiang-mu/page-1.md)
+* [Mac](README.md)
+  * [cut](mac/cut.md)
+  * [Page 1](mac/page-1.md)
 
 ## ScreenCaptureKit
 
