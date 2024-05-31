@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Mac](README.md)
-  * [cut](mac/cut.md)
+* [README](README.md)
 
 ## ScreenCaptureKit
 
@@ -26,5 +25,9 @@
     * [SCContentSharingPickerConfiguration](screencapturekit/api-de-xue-xi/system-contentsharing-picker-xi-tong-nei-rong-gong-xiang-xuan-ze-qi/sccontentsharingpickerconfiguration.md)
     * [SCContentSharingPickerMode](screencapturekit/api-de-xue-xi/system-contentsharing-picker-xi-tong-nei-rong-gong-xiang-xuan-ze-qi/sccontentsharingpickermode.md)
     * [SCContentSharingPickerObserver](screencapturekit/api-de-xue-xi/system-contentsharing-picker-xi-tong-nei-rong-gong-xiang-xuan-ze-qi/sccontentsharingpickerobserver.md)
-  * [Stream errors](screencapturekit/api-de-xue-xi/stream-errors/README.md)
+  * [Stream errors](screencapturekit/api-de-xue-xi/stream-errors.md)
     * [SCStreamError](screencapturekit/api-de-xue-xi/stream-errors/scstreamerror.md)
+
+## Project
+
+* [cut studio](project/cut-studio.md)
