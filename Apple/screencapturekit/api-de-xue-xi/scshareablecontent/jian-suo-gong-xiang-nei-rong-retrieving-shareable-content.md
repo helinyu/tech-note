@@ -16,18 +16,7 @@ open class SCShareableContent : NSObject {
     // 这个对象就是包括windows、displays、applications
     open class var current: SCShareableContent { get async throws }
 
-    // TCC概念：https://www.ithome.com.tw/news/148844
-
-    //  和上上面方法类似，行的版本
-    // 多了：这些信息可在未经用户同意的情况下通过TCC由当前流程捕获
-    @available(macOS 14.4, *)
-    open class func getCurrentProcessShareableContent(completionHandler: @escaping (SCShareableContent?, (any Error)?) -> Void)
-
-
-    //  比较什么的current多了TCC这玩意
-    @available(macOS 14.4, *)
-    open class var currentProcess: SCShareableContent { get async throws }
-
+    
     
 
 //  配置
