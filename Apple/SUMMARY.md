@@ -14,3 +14,6 @@
   * [Content capture\[内容捕获\]](screencapturekit/api-de-xue-xi/content-capture-nei-rong-bu-huo/README.md)
     * [SCStream\[流\]](screencapturekit/api-de-xue-xi/content-capture-nei-rong-bu-huo/scstream-liu.md)
     * [SCStreamConfiguration](screencapturekit/api-de-xue-xi/content-capture-nei-rong-bu-huo/scstreamconfiguration.md)
+    * [SCContentFilter](screencapturekit/api-de-xue-xi/content-capture-nei-rong-bu-huo/sccontentfilter.md)
+    * [CSStreamDeleagate](screencapturekit/api-de-xue-xi/content-capture-nei-rong-bu-huo/csstreamdeleagate.md)
+    * [SCScreenshotmanger](screencapturekit/api-de-xue-xi/content-capture-nei-rong-bu-huo/scscreenshotmanger.md)
