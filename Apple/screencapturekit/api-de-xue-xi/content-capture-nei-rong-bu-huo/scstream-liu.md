@@ -2,7 +2,7 @@
 description: 流对象： 初始化、更新配置(contentfilter/config)、开始/结束
 ---
 
-# SCStream
+# SCStream\[流]
 
 ```
 @available(macOS 12.3, *)

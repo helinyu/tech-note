@@ -12,4 +12,5 @@
     * [\[共享内容对象\]Inspecting shareable content](screencapturekit/api-de-xue-xi/scshareablecontent/gong-xiang-nei-rong-dui-xiang-inspecting-shareable-content.md)
     * [\[类型方法\]Type Methods](screencapturekit/api-de-xue-xi/scshareablecontent/lei-xing-fang-fa-type-methods.md)
   * [Content capture\[内容捕获\]](screencapturekit/api-de-xue-xi/content-capture-nei-rong-bu-huo/README.md)
-    * [SCStream](screencapturekit/api-de-xue-xi/content-capture-nei-rong-bu-huo/scstream.md)
+    * [SCStream\[流\]](screencapturekit/api-de-xue-xi/content-capture-nei-rong-bu-huo/scstream-liu.md)
+    * [SCStreamConfiguration](screencapturekit/api-de-xue-xi/content-capture-nei-rong-bu-huo/scstreamconfiguration.md)
