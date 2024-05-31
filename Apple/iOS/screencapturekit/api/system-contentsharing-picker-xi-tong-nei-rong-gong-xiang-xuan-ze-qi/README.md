@@ -1,2 +1,0 @@
-# system content-sharing picker
-
