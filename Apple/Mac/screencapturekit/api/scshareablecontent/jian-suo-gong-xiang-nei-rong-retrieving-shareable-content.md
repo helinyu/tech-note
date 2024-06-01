@@ -68,15 +68,18 @@ open class SCShareableContentInfo : NSObject {
     open var contentRect: CGRect { get }
 }
 
-//  内容类型
+//  共享内容样式
 public enum SCShareableContentStyle : Int, @unchecked Sendable {
 
     case none = 0
 
-    case window = 1
+    case window = 1 
+    // 窗口，一个应用有多个窗口
 
-    case display = 2
+    case display = 2 
+    //显示设备（显示器），一台设备可能连接多个显示器
 
-    case application = 3
+    case application = 3 
+    // 应用程序
 }
 ```
