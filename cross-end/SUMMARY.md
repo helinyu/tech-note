@@ -1,3 +1,3 @@
 # Table of contents
 
-* [README](README.md)
+* [CROSS-README](README.md)
