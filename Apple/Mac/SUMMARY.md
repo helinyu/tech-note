@@ -32,7 +32,6 @@
 
 * [cut studio](project/cut-studio.md)
 
-## SwiftUI
+## issue
 
-* [README](swiftui/readme.md)
-* [SwiftUI & UIKit](swiftui/swiftui-and-uikit.md)
+* [issue](issue/issue.md)
