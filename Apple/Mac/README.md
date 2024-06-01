@@ -1,6 +1,12 @@
-# Mac 知识和项目
+# README
 
-知识： screencapturekit
+准备知识：
+
+1） screencapturekit  API
+
+2） SwiftUI的基本概念
+
+
 
 项目：quickrecorder修改成为我自己的项目
 
