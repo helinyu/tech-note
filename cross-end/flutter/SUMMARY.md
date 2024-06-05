@@ -8,4 +8,4 @@
 
 ## 学习路程
 
-* [环境搭建以及开启第一个项目测试](xue-xi-lu-cheng/huan-jing-da-jian-yi-ji-kai-qi-di-yi-ge-xiang-mu-ce-shi.md)
+* [1、环境搭建以及开启第一个项目测试](xue-xi-lu-cheng/1-huan-jing-da-jian-yi-ji-kai-qi-di-yi-ge-xiang-mu-ce-shi.md)
