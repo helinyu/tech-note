@@ -6,7 +6,7 @@
 
 eg: [https://oss.v2rayse.com/proxies/data/2024-06-06/14GIMko.txt](https://oss.v2rayse.com/proxies/data/2024-06-06/14GIMko.txt) &#x20;
 
-返回的结果是\[base64]\([https://base64.us/](https://base64.us/))之后的了，我们解base64之后的结果：
+返回的结果是[base64](http://base64.us/) 之后的了，我们解base64之后的结果：
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
