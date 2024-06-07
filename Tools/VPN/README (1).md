@@ -14,7 +14,7 @@ eg: [https://oss.v2rayse.com/proxies/data/2024-06-06/14GIMko.txt](https://oss.v2
 
 
 
-3、安装\[v2ray ]\([https://www.v2ray.com/awesome/tools.html](https://www.v2ray.com/awesome/tools.html))软件，选择合适自己电脑的版本
+3、安装[v2ray](https://www.v2ray.com/awesome/tools.html) 软件，选择合适自己电脑的版本
 
 
 
