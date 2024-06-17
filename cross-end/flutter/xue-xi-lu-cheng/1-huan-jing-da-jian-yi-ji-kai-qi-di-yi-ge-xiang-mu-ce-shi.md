@@ -1,4 +1,4 @@
-# 环境搭建以及开启第一个项目测试
+# 1、环境搭建以及开启第一个项目测试
 
 ### 方式一
 
@@ -40,7 +40,9 @@ cd xx && flutter run  // 运行第一个项目
 
 3、运行项目，cmd+shift+p ，选择flutter:select device ，选择运行的目标设备然后运行。 然后弹出要选择运行的设备，选择就好了。
 
+4、创建的项目目录结构概览：
 
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
