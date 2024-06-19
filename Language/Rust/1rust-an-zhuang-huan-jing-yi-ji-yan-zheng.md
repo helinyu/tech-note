@@ -43,3 +43,12 @@ rustup update
 ```
 rustup self uninstall
 ```
+
+
+
+***
+
+在Visual code中安装rust环境，直接在插件里面搜索rust；
+
+&#x20;选择社区驱动的rust-analyzer插件安装即可
+
