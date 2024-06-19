@@ -1,9 +1,13 @@
-# rust 安装环境以及验证
+# 1、Rust 安装环境以及验证
 
 ### MacOS上的安装
 
+
+
+#### 安装命令：
+
 ```
-$ curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh
+curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh
 ```
 
 &#x20;安装完成显示：&#x20;
