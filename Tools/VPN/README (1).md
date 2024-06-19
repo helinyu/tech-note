@@ -8,7 +8,7 @@ eg: [https://oss.v2rayse.com/proxies/data/2024-06-06/14GIMko.txt](https://oss.v2
 
 返回的结果是[base64](http://base64.us/) 之后的了，我们解base64之后的结果：
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 可以看到协议是vless,可以查看其他的几个地址，都是vmess等等，所以，我们要下载这个协议支持的软件： 我这里选择了<mark style="color:red;">**v2ray**</mark>&#x20;
 
@@ -20,7 +20,7 @@ eg: [https://oss.v2rayse.com/proxies/data/2024-06-06/14GIMko.txt](https://oss.v2
 
 4、我的电脑是Mac，点击右上角图标，打开列表， 点击“<mark style="color:red;">**订阅设置**</mark>”， 然后将开源项目的订阅地址填写进去， 然后点击<mark style="color:red;">**“更新”**</mark>。
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 5、点击软件图标，然后选择ping， 进行ping网络测速；
 
