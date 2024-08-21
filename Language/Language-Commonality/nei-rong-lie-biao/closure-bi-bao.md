@@ -6,4 +6,4 @@ Objective-C中的block
 
 JavaScript中的closure&#x20;
 
-swift中的closure
+[swift中的closure](https://hly-tech.gitbook.io/language/v/swift/bi-bao)
