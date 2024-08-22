@@ -62,3 +62,29 @@ pip install xxxx.whl # 安装完成，即为torch和cuda的环境匹配上了
 
 
 5、运行项目
+
+
+
+#### 遇到的问题：
+
+1》  [遇到“HOME”目录的问题](https://huggingface.co/spaces/not-lain/background-removal/discussions/2)&#x20;
+
+原因：
+
+是因为ZhengPeng7/BiRefNet这个项目的脚本都是针对linux系统的，而我们运行在window上出现目录获取失败的问题。
+
+解决方案：
+
+1）在我们的项目安装的[ZhengPeng7/BiRefNe](https://github.com/ZhengPeng7/BiRefNet)下面修改HOME的目录获取【推荐】
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+2）等待库更新【我已经提交了PR，已经被接受，相信未来会更新】
+
+
+
+2》 [Failed to import pytorch fbgemm.dll or one of its dependencies is missing](https://discuss.pytorch.org/t/failed-to-import-pytorch-fbgemm-dll-or-one-of-its-dependencies-is-missing/201969)
+
+从[网上下载](https://www.dllme.com/dll/files/libomp140\_x86\_64/00637fe34a6043031c9ae4c6cf0a891d/download#google\_vignette) fbgemm.dll库下来，解压之后放到 “**C:\Windows\System32**” 目录下
+
+[解决参考](https://stackoverflow.com/questions/78114412/import-torch-how-to-fix-oserror-winerror-126-error-loading-fbgemm-dll-or-depen)
