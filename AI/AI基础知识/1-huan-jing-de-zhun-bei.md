@@ -1,6 +1,12 @@
 # 1、环境的准备
 
-NVIDIANVIDIA1、设备的选择
+0、Python环境的安装
+
+[推荐conda的方式安装python](https://hly-tech.gitbook.io/language/v/python/python-huan-jing-de-an-zhuang)
+
+
+
+1、设备的选择
 
 mac是不支持的，因为很多AI项目都是基于NVIDIA显卡上进行的，所以，我们要选择一般有NVIDIA的电脑，其实一般的电脑都会有，我刚好有一台matebook13，所以，是支持CUDA的。
 
