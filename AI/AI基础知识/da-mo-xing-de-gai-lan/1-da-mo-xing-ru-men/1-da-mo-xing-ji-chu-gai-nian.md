@@ -18,21 +18,21 @@ LM旨在对词系列的生成概率进行建模， 以预测未来（或缺失�
 
 #### 1》 统计语言模型
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 #### 2》 神经语言模型
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 3》 预训练语言模型
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 4》 大语言模型
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 3、大模型的应用
 
@@ -55,3 +55,20 @@ LM旨在对词系列的生成概率进行建模， 以预测未来（或缺失�
 ## 6、大模型分类
 
 <figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+
+## 7、大模型 vs 小模型
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+打磨新改变了NLP的范式
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+## 8、大预言莫西小姑娘与AIGC之间的区别
+
+AIGC（Artificial Intelligence Generated Content，人工智能生成内容）是一个总称，指有能力生成内容的人工智能模型。AIGC可以生成文本、生成代码、生成图像、视频和音乐。
+
+热门的开源AIGC技术：LLaMA、Stable Diffusion。
+
+大模型也是一种AIGC，它基于文本进行训练并生成文本内容。
+

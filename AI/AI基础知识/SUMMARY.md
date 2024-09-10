@@ -11,4 +11,4 @@
 
 * [1、大模型入门](da-mo-xing-de-gai-lan/1-da-mo-xing-ru-men/README.md)
   * [1、大模型基础概念](da-mo-xing-de-gai-lan/1-da-mo-xing-ru-men/1-da-mo-xing-ji-chu-gai-nian.md)
-  * [Page](da-mo-xing-de-gai-lan/1-da-mo-xing-ru-men/page.md)
+  * [2、大模型企业、行业概览](da-mo-xing-de-gai-lan/1-da-mo-xing-ru-men/2-da-mo-xing-qi-ye-hang-ye-gai-lan.md)
