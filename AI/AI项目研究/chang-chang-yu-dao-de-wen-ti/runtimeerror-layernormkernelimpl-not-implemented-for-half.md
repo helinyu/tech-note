@@ -8,7 +8,13 @@
 model.to('cuda:0')
 ```
 
+
+
 [参考解决方案](https://blog.csdn.net/weixin\_44826203/article/details/130112858)
+
+[对于pytorch对cpu、cuda、mps的描述了解](https://www.cnblogs.com/v3ucn/p/17057512.html)
+
+
 
 
 
