@@ -28,7 +28,7 @@ mac是不支持的，因为很多AI项目都是基于NVIDIA显卡上进行的，
 
 进入[CUDA Toolkit archive 下载12.4.1](https://developer.nvidia.com/cuda-toolkit-archive)的版本
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>选择合适的版本</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption><p>选择合适的版本</p></figcaption></figure>
 
 3、安装CUDA&#x20;
 
