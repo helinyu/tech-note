@@ -126,6 +126,37 @@ if let fruit = fruits[safe: 2] {
 可以避免因为越界访问而导致的崩溃
 ```
 
+## 8、startIndex/endIndex第一个/最后一个索引
+
+startIndex 对于数组来说永远都是0，&#x20;
+
+endIndex 返回最后一个元素索引的位置+1，  对于数组来说== count
+
+如果数组为空，startIndex == endIndex&#x20;
+
+
+
+## 9、获取索引区间 indices
+
+```
+let array = ["A", "B", "C", "D", "E"]
+for index in array.indices {
+    print(index)
+}
+```
+
+获取数组索引的方式：
+
+### 1、通过索引区间indices
+
+### 2、通过`enumerated()`
+
+### 3、通过count获取数量变量
+
+
+
+
+
 ## 小结
 
 {% hint style="info" %}
