@@ -52,3 +52,11 @@ rustup self uninstall
 
 &#x20;选择社区驱动的rust-analyzer插件安装即可
 
+***
+
+## 安装可能遇到的问题
+
+[问题1](https://github.com/rust-lang/rustup/issues/953)
+
+
+
