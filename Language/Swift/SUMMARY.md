@@ -18,3 +18,8 @@
   * [Map](gao-jie-han-shu/map.md)
   * [reduce](gao-jie-han-shu/reduce.md)
   * [sorted](gao-jie-han-shu/sorted.md)
+
+## 疑问
+
+* [swift编程语言去掉字符类型是否可以？](yi-wen/swift-bian-cheng-yu-yan-qu-diao-zi-fu-lei-xing-shi-fou-ke-yi.md)
+* [let c = "A" ， 为什么不推断为character类型？](yi-wen/letc-a-wei-shen-me-bu-tui-duan-wei-character-lei-xing.md)
