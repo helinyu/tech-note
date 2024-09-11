@@ -15,3 +15,4 @@
 ## 概念区分
 
 * [声明和初始化](gai-nian-qu-fen/sheng-ming-he-chu-shi-hua.md)
+* [程序编码为什么需要UTF/ASCII等编码？](gai-nian-qu-fen/cheng-xu-bian-ma-wei-shen-me-xu-yao-utfascii-deng-bian-ma.md)
