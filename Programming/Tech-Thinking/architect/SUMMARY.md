@@ -4,7 +4,7 @@
 
 ## 架构内容
 
-* [Page 1](jia-gou-nei-rong/page-1.md)
+* [重构](jia-gou-nei-rong/zhong-gou.md)
 
 ## 一些思考
 
