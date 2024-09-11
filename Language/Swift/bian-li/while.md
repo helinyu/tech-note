@@ -44,12 +44,24 @@ repeat {
 //repeat-while 循环会输出从 0 到 4 的数字，即使 number 初始值是 0，仍然会先执行一次循环。
 ```
 
-## 3. **区别于 `for` 循环**
+## 3、迭代器+while
+
+```
+let array = ["A", "B", "C", "D", "E"]
+var arrInterator = array.makeIterator()
+while let ele = arrInterator.next() {
+    print(ele)
+}
+```
+
+迭代器的next判断，主要用于无序集合
+
+## 4. **区别于 `for` 循环**
 
 * **`while` 循环**：更适合那些**循环次数不确定**的场景，只要满足条件就会一直执行。
 * **`for` 循环**：更适合那些**已知要执行固定次数**的场景（如遍历数组或范围）。
 
-## 4. **注意事项**
+## 5. **注意事项**
 
 * 如果 `while` 循环的条件一直为 `true`，而循环体中没有改变条件的逻辑，可能会导致**无限循环**。
 
