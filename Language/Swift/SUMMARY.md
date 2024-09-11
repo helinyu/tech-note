@@ -3,4 +3,5 @@
 * [README](README.md)
 * [遍历](bian-li/README.md)
   * [for](bian-li/for.md)
+  * [while](bian-li/while.md)
 * [闭包](bi-bao.md)
