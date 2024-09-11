@@ -4,7 +4,7 @@
 
 
 
-## 2、**`NSEnumerator` 遍历 ， 类似swift等其他语言的for..in(**enumerated**)**&#x20;
+## 2、**`NSEnumerator` 遍历 【迭代器】**
 
 ```
 NSArray *array = @[@"苹果", @"香蕉", @"橘子"];
