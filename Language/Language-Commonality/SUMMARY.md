@@ -11,3 +11,7 @@
 * [遍历](bian-li/README.md)
   * [for](bian-li/for.md)
   * [While](bian-li/while.md)
+
+## 概念区分
+
+* [声明和初始化](gai-nian-qu-fen/sheng-ming-he-chu-shi-hua.md)
