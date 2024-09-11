@@ -5,3 +5,6 @@
   * [for](bian-li/for.md)
   * [while](bian-li/while.md)
 * [闭包](bi-bao.md)
+* [数组](shu-zu/README.md)
+  * [1、声明和初始化](shu-zu/1-sheng-ming-he-chu-shi-hua.md)
+  * [Page](shu-zu/page.md)
