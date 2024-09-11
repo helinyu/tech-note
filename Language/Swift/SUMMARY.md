@@ -13,3 +13,8 @@
   * [2、基本访问和修改\[索引方式\]](shu-zu/2-ji-ben-fang-wen-he-xiu-gai-suo-yin-fang-shi.md)
   * [3、操作](shu-zu/page.md)
 * [字符串](zi-fu-chuan.md)
+* [高阶函数](gao-jie-han-shu/README.md)
+  * [filter](gao-jie-han-shu/filter.md)
+  * [Map](gao-jie-han-shu/map.md)
+  * [reduce](gao-jie-han-shu/reduce.md)
+  * [sorted](gao-jie-han-shu/sorted.md)
