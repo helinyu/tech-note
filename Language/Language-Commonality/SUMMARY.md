@@ -8,14 +8,16 @@
 
 ***
 
+* [字符](zi-fu.md)
+* [Page](page.md)
 * [遍历](bian-li/README.md)
   * [for](bian-li/for.md)
   * [While](bian-li/while.md)
 
-## 概念区分
+## 杂点
 
-* [声明和初始化](gai-nian-qu-fen/sheng-ming-he-chu-shi-hua.md)
-* [程序编码为什么需要UTF/ASCII等编码？](gai-nian-qu-fen/cheng-xu-bian-ma-wei-shen-me-xu-yao-utfascii-deng-bian-ma.md)
+* [声明和初始化](za-dian/sheng-ming-he-chu-shi-hua.md)
+* [程序编码为什么需要UTF/ASCII等编码？](za-dian/cheng-xu-bian-ma-wei-shen-me-xu-yao-utfascii-deng-bian-ma.md)
 
 ***
 
