@@ -4,7 +4,7 @@ description: 主要是列出所有的内容
 
 # README
 
-[https://hly-tech.gitbook.io](https://hly-tech.gitbook.io/apple/list)/list 是当前的目录
+[https://hly-tech.gitbook.io/list](https://hly-tech.gitbook.io/list) 是当前的目录
 
 
 
@@ -33,6 +33,8 @@ tools 工具
 language 编程语言
 
 compile 编译原理
+
+[algorithm](https://hly-tech.gitbook.io/algorithm) 算法
 
 
 
