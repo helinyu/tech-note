@@ -2,7 +2,7 @@
 
 * [README](README.md)
 * [符号](fu-hao/README.md)
-  * [== 和 === 以及!=和!==](fu-hao/he-yi-ji-he.md)
+  * [等于不等](fu-hao/deng-yu-bu-deng.md)
   * [数学常用符号](fu-hao/shu-xue-chang-yong-fu-hao.md)
 * [变量vs常量](bian-liang-vs-chang-liang.md)
 * [遍历](bian-li/README.md)
