@@ -46,3 +46,8 @@ std::string str = "Hello, World!";
    * C++：`std::string` 可以根据需要动态扩展，长度不固定。
 
 <mark style="color:red;">**C++ 的**</mark><mark style="color:red;">** **</mark><mark style="color:red;">**`std::string`**</mark><mark style="color:red;">** **</mark><mark style="color:red;">**可以与 C 的字符串（**</mark><mark style="color:red;">**`char*`**</mark><mark style="color:red;">**）互相转换**</mark><mark style="color:red;">，从而兼容两种不同的字符串操作方式。这使得在需要与 C 代码交互时，仍然可以方便地使用 C++ 的字符串功能</mark>。
+
+
+
+在写算法的时候，就不要使用C语言的方法了，还是直接使用C++的语法和C语言字符串使用字符数组表示组合。这样更加方便。
+
