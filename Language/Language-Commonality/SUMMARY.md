@@ -2,15 +2,16 @@
 
 * [README](README.md)
 
-## 内容列表
+## 基本内容
 
-* [Closure闭包](nei-rong-lie-biao/closure-bi-bao.md)
-* [引号](nei-rong-lie-biao/yin-hao.md)
-* [字符](nei-rong-lie-biao/zi-fu.md)
-* [字符串](nei-rong-lie-biao/zi-fu-chuan.md)
-* [遍历](nei-rong-lie-biao/bian-li/README.md)
-  * [for](nei-rong-lie-biao/bian-li/for.md)
-  * [While](nei-rong-lie-biao/bian-li/while.md)
+* [声明定义方式](ji-ben-nei-rong/sheng-ming-ding-yi-fang-shi.md)
+* [Closure闭包](ji-ben-nei-rong/closure-bi-bao.md)
+* [引号](ji-ben-nei-rong/yin-hao.md)
+* [字符](ji-ben-nei-rong/zi-fu.md)
+* [字符串](ji-ben-nei-rong/zi-fu-chuan.md)
+* [遍历](ji-ben-nei-rong/bian-li/README.md)
+  * [for](ji-ben-nei-rong/bian-li/for.md)
+  * [While](ji-ben-nei-rong/bian-li/while.md)
 
 ## 杂点
 
