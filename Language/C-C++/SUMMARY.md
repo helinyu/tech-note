@@ -1,13 +1,19 @@
 # Table of contents
 
 * [README](README.md)
-* [遍历](bian-li/README.md)
-  * [for](bian-li/for.md)
-  * [While](bian-li/while.md)
-* [字符](zi-fu.md)
-* [字符串](zi-fu-chuan.md)
-* [Page 1](page-1.md)
+
+## C
+
+* [字符](c/zi-fu.md)
+* [字符串](c/zi-fu-chuan.md)
+* [遍历](c/bian-li/README.md)
+  * [for](c/bian-li/for.md)
+  * [While](c/bian-li/while.md)
+
+## C++
+
+* [Page 2](c++/page-2.md)
 
 ## 杂点
 
-* [Untitled](za-dian/untitled.md)
+* [Page 3](za-dian/page-3.md)
