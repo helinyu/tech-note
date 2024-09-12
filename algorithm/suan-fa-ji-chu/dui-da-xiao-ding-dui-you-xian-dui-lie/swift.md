@@ -1,10 +1,8 @@
-# 堆（大/小顶堆 、优先队列）
+---
+description: （leetcode暂时没有提供MaxHeap这样的数据结构）
+---
 
-
-
-大顶堆、小顶堆
-
-优先队列 是基于堆来实现的
+# swift
 
 ## 1、大顶堆（Max-Heap）实现
 
@@ -72,7 +70,7 @@ while let max = maxHeap.extractMax() {
 }
 ```
 
-## 小顶堆（Min-Heap）实现
+## 2、小顶堆（Min-Heap）实现
 
 ```swift
 struct MinHeap<T: Comparable> {
@@ -137,18 +135,3 @@ while let min = minHeap.extractMin() {
     print(min)  // 输出：1 2 3 5
 }
 ```
-
-#### 总结
-
-大顶堆适用于优先级越大越先处理的场景；
-
-小顶堆适用于优先级越小越先处理的场景；
-
-
-
-其实优先队列就是大顶堆和小顶堆，&#x20;
-
-看这个优先队列是让大到小排序还是小到大排序吧了。
-
-
-
