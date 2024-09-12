@@ -16,4 +16,4 @@
 
 ## 杂点
 
-* [Page 3](za-dian/page-3.md)
+* [C 和C++字符串的关系和区别](za-dian/c-he-c++-zi-fu-chuan-de-guan-xi-he-qu-bie.md)

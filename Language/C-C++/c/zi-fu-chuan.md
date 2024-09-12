@@ -45,6 +45,94 @@ char str[6] = {'H', 'e', 'l', 'l', 'o', '\0'};
 char *str = "hello"; 
 ```
 
+动态地分配字符串所需的内存，可以使用指针和动态内存分配函数（如 `malloc` 和 `strcpy`）。
+
+#### 动态分配内存给字符串指针
+
+**步骤**
+
+1. **声明一个字符指针**：用于指向动态分配的内存。
+2. **使用 `malloc` 分配内存**：根据字符串的长度加上一个空字符 `'\0'` 的长度来分配内存。
+3. **使用 `strcpy` 复制字符串内容**：将源字符串复制到动态分配的内存中。
+
+**示例代码**
+
+```c
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+int main() {
+    // 源字符串
+    const char* sourceStr = "Hello, World!";
+
+    // 计算源字符串的长度
+    size_t length = strlen(sourceStr) + 1;  // +1 是为了包括空字符 '\0'
+
+    // 动态分配内存
+    char* dynamicStr = (char*)malloc(length * sizeof(char));
+    if (dynamicStr == NULL) {
+        fprintf(stderr, "Memory allocation failed\n");
+        return 1;
+    }
+
+    // 复制字符串内容
+    strcpy(dynamicStr, sourceStr);
+
+    // 打印动态分配的字符串
+    printf("Dynamic String: %s\n", dynamicStr);
+
+    // 使用完毕后释放内存
+    free(dynamicStr);
+
+    return 0;
+}
+```
+
+**详细说明**
+
+1. **声明指针**：`char* dynamicStr` 声明了一个字符指针，该指针将用于指向动态分配的内存。
+2.  **分配内存**：
+
+    ```c
+    char* dynamicStr = (char*)malloc(length * sizeof(char));
+    ```
+
+    使用 `malloc` 分配内存。`malloc` 返回 `void*` 类型的指针，因此需要进行类型转换 `(char*)`。分配的内存大小为 `length * sizeof(char)` 字节，其中 `length` 是源字符串长度加上一个空字符 `'\0'` 的长度。
+3.  **检查内存分配是否成功**：
+
+    ```c
+    if (dynamicStr == NULL) {
+        fprintf(stderr, "Memory allocation failed\n");
+        return 1;
+    }
+    ```
+
+    如果 `malloc` 返回 `NULL`，表示内存分配失败，需要做相应的错误处理。
+4.  **复制字符串内容**：
+
+    ```c
+    strcpy(dynamicStr, sourceStr);
+    ```
+
+    使用 `strcpy` 函数将源字符串 `sourceStr` 的内容复制到动态分配的内存中。
+5.  **打印动态分配的字符串**：
+
+    ```c
+    printf("Dynamic String: %s\n", dynamicStr);
+    ```
+6.  **释放内存**：
+
+    ```c
+    free(dynamicStr);
+    ```
+
+    使用 `free` 函数释放动态分配的内存，以避免内存泄漏。
+
+#### 总结
+
+通过上述步骤，可以在 C 语言中动态地分配字符串所需的内存，并使用字符指针来操作字符串。动态内存分配提供了灵活性，但也需要开发者小心地管理内存，以避免内存泄漏和其他相关问题。
+
 
 
 ## 2、字符串的可变与不可变
