@@ -6,6 +6,8 @@
 
 
 
+***
+
 常见的名字函数都是基于Math这个库里面的，所以，
 
 <mark style="color:red;">**Math.sqrt(x)**</mark> 等等这样调用
