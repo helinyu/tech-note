@@ -17,3 +17,4 @@
 
 * [Javascript](leetcode-jie-gou/javascript/README.md)
   * [优先队列](leetcode-jie-gou/javascript/you-xian-dui-lie.md)
+* [C++](leetcode-jie-gou/c++.md)
