@@ -55,6 +55,21 @@
   * [概览](c++/stl/gai-lan.md)
   * [详细内容](c++/stl/xiang-xi-nei-rong.md)
   * [数组](c++/stl/shu-zu.md)
+  * [优先队列](c++/stl/you-xian-dui-lie/README.md)
+    * [属性和方法](c++/stl/you-xian-dui-lie/shu-xing-he-fang-fa.md)
+    * [详细内容](c++/stl/you-xian-dui-lie/xiang-xi-nei-rong.md)
+  * [栈](c++/stl/zhan.md)
+  * [映射（关联）map](c++/stl/ying-she-guan-lian-map/README.md)
+    * [map应用场景](c++/stl/ying-she-guan-lian-map/map-ying-yong-chang-jing.md)
+    * [multimap应用场景](c++/stl/ying-she-guan-lian-map/multimap-ying-yong-chang-jing.md)
+    * [unordered\_map应用场景](c++/stl/ying-she-guan-lian-map/unorderedmap-ying-yong-chang-jing.md)
+    * [unordered\_multimap应用场景](c++/stl/ying-she-guan-lian-map/unorderedmultimap-ying-yong-chang-jing.md)
+    * [map 为什么还需要unordered 以及multi的map？](c++/stl/ying-she-guan-lian-map/map-wei-shen-me-hai-xu-yao-unordered-yi-ji-multi-de-map.md)
+  * [集合 set](c++/stl/ji-he-set/README.md)
+    * [std::set 应用场景](c++/stl/ji-he-set/stdset-ying-yong-chang-jing.md)
+    * [std::multiset](c++/stl/ji-he-set/std-multiset.md)
+    * [std::unordered\_set](c++/stl/ji-he-set/std-unordered\_set.md)
+    * [std::unordered\_multiset](c++/stl/ji-he-set/std-unordered\_multiset.md)
 
 ## 杂点
 
