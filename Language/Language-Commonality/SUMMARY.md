@@ -11,7 +11,10 @@
 * [字符串](ji-ben-nei-rong/zi-fu-chuan.md)
 * [遍历](ji-ben-nei-rong/bian-li/README.md)
   * [for](ji-ben-nei-rong/bian-li/for.md)
-  * [While](ji-ben-nei-rong/bian-li/while.md)
+  * [While](ji-ben-nei-rong/bian-li/while/README.md)
+    * [+迭代器](ji-ben-nei-rong/bian-li/while/+-die-dai-qi.md)
+  * [高阶函数](ji-ben-nei-rong/bian-li/gao-jie-han-shu.md)
+  * [其他](ji-ben-nei-rong/bian-li/qi-ta.md)
 
 ## 杂点
 
