@@ -4,6 +4,7 @@
 
 ## C
 
+* [变量类型](c/bian-liang-lei-xing.md)
 * [字符](c/zi-fu.md)
 * [字符串](c/zi-fu-chuan.md)
 * [数组](c/shu-zu/README.md)
@@ -16,6 +17,7 @@
 
 ## C++
 
+* [变量类型](c++/bian-liang-lei-xing.md)
 * [字符](c++/zi-fu.md)
 * [字符串](c++/zi-fu-chuan.md)
 * [数组](c++/shu-zu/README.md)
