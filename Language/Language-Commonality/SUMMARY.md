@@ -31,7 +31,7 @@
   * [高阶函数](ji-ben-nei-rong/bian-li/gao-jie-han-shu.md)
   * [其他](ji-ben-nei-rong/bian-li/qi-ta.md)
 * [高阶函数](ji-ben-nei-rong/gao-jie-han-shu.md)
-* [字典/键值对](ji-ben-nei-rong/zi-dian-jian-zhi-dui/README.md)
+* [字典/键值对](ji-ben-nei-rong/zi-dian-jian-zhi-dui.md)
   * [Dictionary/Map](ji-ben-nei-rong/zi-dian-jian-zhi-dui/dictionary-map.md)
 
 ## 杂点
