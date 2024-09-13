@@ -6,6 +6,10 @@
 
 * [字符](c/zi-fu.md)
 * [字符串](c/zi-fu-chuan.md)
+* [数组](c/shu-zu/README.md)
+  * [疑问](c/shu-zu/yi-wen.md)
+  * [创建动态数组](c/shu-zu/chuang-jian-dong-tai-shu-zu.md)
+  * [realloc的使用](c/shu-zu/realloc-de-shi-yong.md)
 * [遍历](c/bian-li/README.md)
   * [for](c/bian-li/for.md)
   * [While](c/bian-li/while.md)
@@ -14,6 +18,10 @@
 
 * [字符](c++/zi-fu.md)
 * [字符串](c++/zi-fu-chuan.md)
+* [数组](c++/shu-zu/README.md)
+  * [疑问](c++/shu-zu/yi-wen/README.md)
+    * [C和C++数组关系和区别](c++/shu-zu/yi-wen/c-he-c++-shu-zu-guan-xi-he-qu-bie.md)
+    * [创建动态数组](c++/shu-zu/yi-wen/chuang-jian-dong-tai-shu-zu.md)
 
 ## 杂点
 
