@@ -19,6 +19,8 @@
     * [作为参数传递](c/shu-zu/cao-zuo/zuo-wei-can-shu-chuan-di.md)
     * [遍历](c/shu-zu/cao-zuo/bian-li.md)
     * [增删改查](c/shu-zu/cao-zuo/zeng-shan-gai-cha.md)
+    * [判空](c/shu-zu/cao-zuo/pan-kong.md)
+    * [长度(个数)](c/shu-zu/cao-zuo/chang-du-ge-shu.md)
     * [...](c/shu-zu/cao-zuo/....md)
   * [多维数组](c/shu-zu/duo-wei-shu-zu.md)
 * [遍历](c/bian-li/README.md)
