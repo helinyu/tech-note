@@ -51,6 +51,7 @@
   * [while(do..while)](c++/bian-li/while-do..while.md)
   * [break\&continue](c++/bian-li/break-and-continue.md)
   * [迭代器](c++/bian-li/die-dai-qi.md)
+* [类(对象)](c++/lei-dui-xiang.md)
 * [STL](c++/stl/README.md)
   * [概览](c++/stl/gai-lan.md)
   * [详细内容](c++/stl/xiang-xi-nei-rong.md)
