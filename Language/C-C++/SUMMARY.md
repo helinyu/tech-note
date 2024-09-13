@@ -38,6 +38,11 @@
   * [疑问](c++/shu-zu/yi-wen/README.md)
     * [C和C++数组关系和区别](c++/shu-zu/yi-wen/c-he-c++-shu-zu-guan-xi-he-qu-bie.md)
     * [创建动态数组](c++/shu-zu/yi-wen/chuang-jian-dong-tai-shu-zu.md)
+* [遍历](c++/bian-li/README.md)
+  * [for](c++/bian-li/for.md)
+  * [while(do..while)](c++/bian-li/while-do..while.md)
+  * [break\&continue](c++/bian-li/break-and-continue.md)
+  * [迭代器](c++/bian-li/die-dai-qi.md)
 
 ## 杂点
 
