@@ -265,9 +265,9 @@ C++ STL 提供的容器类可以大致分为以下三大类：
 
 2、verctor动态数组
 
-3、双e端u队u列uuu
+3、deque 双向队列
 
-4、list 双向连败哦
+4、list 双向链表
 
 5、forward\_list 单向链表
 {% endhint %}
@@ -280,5 +280,28 @@ C++ STL 提供的容器类可以大致分为以下三大类：
 stack 栈
 
 queue 队列
+
+priority\_queue 优先队列
 {% endhint %}
 
+
+
+## 再次总结：
+
+{% hint style="info" %}
+1、数组 vector ，array
+
+2、双向队列 deque
+
+3、链表 list forward\_list
+
+4、映射 map
+
+5、set 集合
+
+6、stack 栈
+
+7、queue队列
+
+8、priority\_queue优先队列
+{% endhint %}
