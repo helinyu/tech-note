@@ -4,6 +4,7 @@
 
 ## 基本内容
 
+* [声明和定义变量和常量](ji-ben-nei-rong/sheng-ming-he-ding-yi-bian-liang-he-chang-liang.md)
 * [字符串/字符](ji-ben-nei-rong/zi-fu-chuan-zi-fu.md)
 * [符号](ji-ben-nei-rong/fu-hao/README.md)
   * [等于不等](ji-ben-nei-rong/fu-hao/deng-yu-bu-deng.md)
