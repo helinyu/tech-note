@@ -39,6 +39,7 @@
     * [去重](ji-ben-nei-rong/shu-zu-zhan-dui-lie/cao-zuo/qu-zhong.md)
   * [Array 实现链表（双向、单向）](ji-ben-nei-rong/shu-zu-zhan-dui-lie/array-shi-xian-lian-biao-shuang-xiang-dan-xiang.md)
   * [Array实现dequeue](ji-ben-nei-rong/shu-zu-zhan-dui-lie/array-shi-xian-dequeue.md)
+  * [Array实现优先队列(priority\_queue)](ji-ben-nei-rong/shu-zu-zhan-dui-lie/array-shi-xian-you-xian-dui-lie-priorityqueue.md)
 * [字典/键值对](ji-ben-nei-rong/zi-dian-jian-zhi-dui/README.md)
   * [Map](ji-ben-nei-rong/zi-dian-jian-zhi-dui/map.md)
   * [操作](ji-ben-nei-rong/zi-dian-jian-zhi-dui/cao-zuo.md)
