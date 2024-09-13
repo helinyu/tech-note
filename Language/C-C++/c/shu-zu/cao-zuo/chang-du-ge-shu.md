@@ -14,6 +14,10 @@ printf("数组长度为：%d\n", length);
 
 这里 `sizeof(arr)` 返回整个数组占用的字节数，`sizeof(arr[0])` 返回数组中单个元素占用的字节数，两者相除得到数组的长度。
 
+<mark style="color:orange;">`sizeof`</mark><mark style="color:orange;">主要用于确定类型或变量所占用的字节数</mark>
+
+
+
 **二、动态分配的数组（使用 `malloc`、`calloc` 等分配）**
 
 ```c
