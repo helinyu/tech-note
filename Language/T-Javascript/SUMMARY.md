@@ -42,9 +42,10 @@
 * [字典/键值对](ji-ben-nei-rong/zi-dian-jian-zhi-dui/README.md)
   * [Map](ji-ben-nei-rong/zi-dian-jian-zhi-dui/map.md)
   * [操作](ji-ben-nei-rong/zi-dian-jian-zhi-dui/cao-zuo.md)
+  * [unorderedmap、multiMap、unordered\_multimap?](ji-ben-nei-rong/zi-dian-jian-zhi-dui/unorderedmap-multimap-unordered\_multimap.md)
 * [集合set](ji-ben-nei-rong/ji-he-set/README.md)
   * [运算](ji-ben-nei-rong/ji-he-set/yun-suan.md)
-  * [Multiset](ji-ben-nei-rong/ji-he-set/multiset.md)
+  * [js中的set是否有unorderedSet multiSet unordered\_multiSet?](ji-ben-nei-rong/ji-he-set/js-zhong-de-set-shi-fou-you-unorderedset-multiset-unorderedmultiset.md)
 
 ## 杂点
 
