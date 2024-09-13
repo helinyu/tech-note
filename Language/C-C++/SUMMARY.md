@@ -14,8 +14,8 @@
     * [创建静态数组](c/shu-zu/chuang-jian/chuang-jian-jing-tai-shu-zu.md)
     * [创建动态数组](c/shu-zu/chuang-jian/chuang-jian-dong-tai-shu-zu/README.md)
       * [realloc的使用](c/shu-zu/chuang-jian/chuang-jian-dong-tai-shu-zu/realloc-de-shi-yong.md)
-  * [访问元素](c/shu-zu/fang-wen-yuan-su.md)
-  * [作为参数传递](c/shu-zu/zuo-wei-can-shu-chuan-di.md)
+  * [访问元素](c/shu-zu/cao-zuo/fang-wen-yuan-su.md)
+  * [作为参数传递](c/shu-zu/cao-zuo/zuo-wei-can-shu-chuan-di.md)
   * [操作](c/shu-zu/cao-zuo/README.md)
     * [遍历](c/shu-zu/cao-zuo/bian-li.md)
     * [增删改查](c/shu-zu/cao-zuo/zeng-shan-gai-cha.md)
@@ -27,6 +27,7 @@
   * [for](c/bian-li/for.md)
   * [While(do..while)](c/bian-li/while-do..while.md)
   * [break & continue](c/bian-li/break-and-continue.md)
+* [小结](c/xiao-jie.md)
 
 ## C++
 
