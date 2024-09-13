@@ -33,6 +33,9 @@
 * [高阶函数](ji-ben-nei-rong/gao-jie-han-shu.md)
 * [字典/键值对](ji-ben-nei-rong/zi-dian-jian-zhi-dui.md)
   * [Dictionary/Map](ji-ben-nei-rong/zi-dian-jian-zhi-dui/dictionary-map.md)
+* [Set](ji-ben-nei-rong/set/README.md)
+  * [Multiset、Bag](ji-ben-nei-rong/set/multiset-bag.md)
+  * [运算](ji-ben-nei-rong/set/yun-suan.md)
 
 ## 杂点
 
