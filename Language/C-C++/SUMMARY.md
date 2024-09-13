@@ -54,6 +54,7 @@
 * [STL](c++/stl/README.md)
   * [概览](c++/stl/gai-lan.md)
   * [详细内容](c++/stl/xiang-xi-nei-rong.md)
+  * [数组](c++/stl/shu-zu.md)
 
 ## 杂点
 
