@@ -37,6 +37,7 @@
 
 ## C++
 
+* [环境](c++/huan-jing.md)
 * [变量类型](c++/bian-liang-lei-xing.md)
 * [字符](c++/zi-fu.md)
 * [字符串](c++/zi-fu-chuan.md)
@@ -101,7 +102,9 @@
 
 ## Objective-C
 
-* [Page 1](objective-c/page-1.md)
+* [环境](objective-c/huan-jing.md)
+* [变量类型](objective-c/bian-liang-lei-xing.md)
+* [遍历](objective-c/bian-li.md)
 
 ## 杂点
 
