@@ -62,9 +62,17 @@
   * [集合set](ji-ben-nei-rong/ju-he-lei-xing-shu-ju-jie-gou/ji-he-set/README.md)
     * [运算](ji-ben-nei-rong/ju-he-lei-xing-shu-ju-jie-gou/ji-he-set/yun-suan.md)
     * [js中的set是否有unorderedSet multiSet unordered\_multiSet?](ji-ben-nei-rong/ju-he-lei-xing-shu-ju-jie-gou/ji-he-set/js-zhong-de-set-shi-fou-you-unorderedset-multiset-unorderedmultiset.md)
-* [TS比JS多了什么？](ji-ben-nei-rong/ts-bi-js-duo-le-shen-me.md)
 
 ## 杂点
 
 * [常用常量](za-dian/chang-yong-chang-liang.md)
 * [babel 库的作用](za-dian/babel-ku-de-zuo-yong.md)
+
+## TS
+
+* [TS比JS多了什么？](ts/ts-bi-js-duo-le-shen-me.md)
+
+## arkTS
+
+* [ArkTS 和TS的关系以及区别](arkts/arkts-he-ts-de-guan-xi-yi-ji-qu-bie/README.md)
+  * [语言本身上区别](arkts/arkts-he-ts-de-guan-xi-yi-ji-qu-bie/yu-yan-ben-shen-shang-qu-bie.md)
