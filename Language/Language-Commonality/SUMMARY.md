@@ -4,6 +4,8 @@
 
 ## 基本内容
 
+* [目的/概述](ji-ben-nei-rong/mu-di-gai-shu/README.md)
+  * [应用](ji-ben-nei-rong/mu-di-gai-shu/ying-yong.md)
 * [环境](ji-ben-nei-rong/huan-jing.md)
 * [声明变量的方式](ji-ben-nei-rong/sheng-ming-bian-liang-de-fang-shi.md)
 * [变量类型](ji-ben-nei-rong/bian-liang-lei-xing.md)
@@ -51,6 +53,12 @@
     * [运算](ji-ben-nei-rong/ju-he-de-shu-ju-jie-gou/ji-he-set/yun-suan.md)
     * [应用场景](ji-ben-nei-rong/ju-he-de-shu-ju-jie-gou/ji-he-set/ying-yong-chang-jing.md)
   * [...](ji-ben-nei-rong/ju-he-de-shu-ju-jie-gou/....md)
+* [模板](ji-ben-nei-rong/mu-ban.md)
+* [功能性机制](ji-ben-nei-rong/gong-neng-xing-ji-zhi.md)
+* [数组处理文件格式](ji-ben-nei-rong/shu-zu-chu-li-wen-jian-ge-shi.md)
+* [Math库](ji-ben-nei-rong/math-ku.md)
+* [工具/库](ji-ben-nei-rong/gong-ju-ku.md)
+* [懒学](ji-ben-nei-rong/lan-xue.md)
 
 ## 杂点
 
