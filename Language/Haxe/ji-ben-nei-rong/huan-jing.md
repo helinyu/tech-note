@@ -8,5 +8,11 @@
 
 
 
+[编译的使用](https://haxe.org/manual/compiler-usage.html)：  基本的使用要掌握
+
+[编译的特色](https://haxe.org/manual/cr-features.html)：用到的时候再看
+
+
+
 
 
