@@ -125,6 +125,7 @@
   * [方法](objective-c/han-shu-fang-fa/fang-fa.md)
 * [闭包/block](objective-c/bi-bao-block.md)
 * [聚合数据结构](objective-c/ju-he-shu-ju-jie-gou/README.md)
+  * [类](objective-c/ju-he-shu-ju-jie-gou/lei.md)
   * [数组](objective-c/ju-he-shu-ju-jie-gou/shu-zu/README.md)
     * [不可变](objective-c/ju-he-shu-ju-jie-gou/shu-zu/bu-ke-bian.md)
     * [可变](objective-c/ju-he-shu-ju-jie-gou/shu-zu/ke-bian.md)
@@ -148,3 +149,8 @@
 
 * [C++中指针和引用的关系与区别？ 以及& \* 符号，对取地址以及引用的区别](c++-zhong-zhi-zhen-he-yin-yong-de-guan-xi-yu-qu-bie-yi-ji-fu-hao-dui-qu-di-zhi-yi-ji-yin-yong-de-qu.md)
 * [C/C++/OC 变量类型的差异](cc++oc-bian-liang-lei-xing-de-cha-yi.md)
+* [OC、C++ 、C共性与差异](occ++cgong-xing-yu-cha-yi.md)
+* [C++中的RAII](c++-zhong-de-raii.md)
+* [C++的内存管理](c++-de-nei-cun-guan-li.md)
+* [OC的内存管理](oc-de-nei-cun-guan-li.md)
+* [OC中的自动应用技术和自动释放池关系](oc-zhong-de-zi-dong-ying-yong-ji-shu-he-zi-dong-shi-fang-chi-guan-xi.md)
