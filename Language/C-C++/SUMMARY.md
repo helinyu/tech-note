@@ -60,6 +60,7 @@
 * [结构体](c++/jie-gou-ti.md)
 * [共用体](c++/gong-yong-ti.md)
 * [函数](c++/han-shu/README.md)
+  * [高阶函数](c++/han-shu/gao-jie-han-shu.md)
   * [和C语言的差异](c++/han-shu/hecyu-yan-de-cha-yi.md)
 * [闭包](c++/bi-bao.md)
 * [类(对象)](c++/lei-dui-xiang/README.md)
