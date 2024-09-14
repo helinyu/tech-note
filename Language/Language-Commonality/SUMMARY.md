@@ -20,7 +20,8 @@
     * [其他](ji-ben-nei-rong/kong-zhi-yu-ju/bian-li/qi-ta.md)
 * [结构体](ji-ben-nei-rong/jie-gou-ti.md)
 * [共用体](ji-ben-nei-rong/gong-yong-ti.md)
-* [函数](ji-ben-nei-rong/han-shu.md)
+* [函数](ji-ben-nei-rong/han-shu/README.md)
+  * [高阶函数](ji-ben-nei-rong/han-shu/gao-jie-han-shu.md)
 * [Closure闭包](ji-ben-nei-rong/closure-bi-bao.md)
 * [类（对象）](ji-ben-nei-rong/lei-dui-xiang.md)
 * [聚合的数据结构](ji-ben-nei-rong/ju-he-de-shu-ju-jie-gou/README.md)
@@ -49,7 +50,6 @@
     * [运算](ji-ben-nei-rong/ju-he-de-shu-ju-jie-gou/ji-he-set/yun-suan.md)
     * [应用场景](ji-ben-nei-rong/ju-he-de-shu-ju-jie-gou/ji-he-set/ying-yong-chang-jing.md)
   * [...](ji-ben-nei-rong/ju-he-de-shu-ju-jie-gou/....md)
-* [高阶函数](ji-ben-nei-rong/gao-jie-han-shu.md)
 
 ## 杂点
 
