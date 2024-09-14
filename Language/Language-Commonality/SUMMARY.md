@@ -22,8 +22,10 @@
   * [高阶函数](ji-ben-nei-rong/han-shu/gao-jie-han-shu.md)
 * [闭包(Closure)](ji-ben-nei-rong/bi-bao-closure.md)
 * [聚合的数据结构](ji-ben-nei-rong/ju-he-de-shu-ju-jie-gou/README.md)
+  * [枚举](ji-ben-nei-rong/ju-he-de-shu-ju-jie-gou/mei-ju.md)
   * [结构体](ji-ben-nei-rong/ju-he-de-shu-ju-jie-gou/jie-gou-ti.md)
   * [共用体](ji-ben-nei-rong/ju-he-de-shu-ju-jie-gou/gong-yong-ti.md)
+  * [类（对象）](ji-ben-nei-rong/ju-he-de-shu-ju-jie-gou/lei-dui-xiang.md)
   * [元组(tuple)](ji-ben-nei-rong/ju-he-de-shu-ju-jie-gou/yuan-zu-tuple.md)
   * [数组](ji-ben-nei-rong/ju-he-de-shu-ju-jie-gou/shu-zu/README.md)
     * [应用场景](ji-ben-nei-rong/ju-he-de-shu-ju-jie-gou/shu-zu/ying-yong-chang-jing.md)
@@ -49,7 +51,6 @@
     * [运算](ji-ben-nei-rong/ju-he-de-shu-ju-jie-gou/ji-he-set/yun-suan.md)
     * [应用场景](ji-ben-nei-rong/ju-he-de-shu-ju-jie-gou/ji-he-set/ying-yong-chang-jing.md)
   * [...](ji-ben-nei-rong/ju-he-de-shu-ju-jie-gou/....md)
-* [类（对象）](ji-ben-nei-rong/lei-dui-xiang.md)
 
 ## 杂点
 
