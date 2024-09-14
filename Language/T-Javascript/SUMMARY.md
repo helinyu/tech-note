@@ -67,6 +67,7 @@
 
 * [常用常量](za-dian/chang-yong-chang-liang.md)
 * [babel 库的作用](za-dian/babel-ku-de-zuo-yong.md)
+* [ECMAScript 和 JavaScript 的关系](za-dian/ecmascript-he-javascript-de-guan-xi.md)
 
 ## TS
 
