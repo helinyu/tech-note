@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Page](README.md)
+* [README](README.md)
 * [遍历](bian-li.md)
