@@ -7,7 +7,8 @@
 * [创建-(声明和定义变量和常量)](ji-ben-nei-rong/chuang-jian-sheng-ming-he-ding-yi-bian-liang-he-chang-liang.md)
 * [变量类型](ji-ben-nei-rong/bian-liang-lei-xing/README.md)
   * [symbol](ji-ben-nei-rong/bian-liang-lei-xing/symbol.md)
-* [字符串/字符](ji-ben-nei-rong/zi-fu-chuan-zi-fu.md)
+* [字符串/字符](ji-ben-nei-rong/zi-fu-chuan-zi-fu/README.md)
+  * [引号](ji-ben-nei-rong/zi-fu-chuan-zi-fu/yin-hao.md)
 * [符号](ji-ben-nei-rong/fu-hao/README.md)
   * [等于不等](ji-ben-nei-rong/fu-hao/deng-yu-bu-deng.md)
   * [数学常用符号](ji-ben-nei-rong/fu-hao/shu-xue-chang-yong-fu-hao.md)
@@ -62,5 +63,5 @@
 
 ## 杂点
 
-* [引号](za-dian/yin-hao.md)
 * [常用常量](za-dian/chang-yong-chang-liang.md)
+* [babel 库的作用](za-dian/babel-ku-de-zuo-yong.md)
