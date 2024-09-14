@@ -4,6 +4,8 @@
 
 ## C
 
+* [环境](c/huan-jing.md)
+* [声明变量的方式](c/sheng-ming-bian-liang-de-fang-shi.md)
 * [变量类型](c/bian-liang-lei-xing/README.md)
   * [疑问](c/bian-liang-lei-xing/yi-wen/README.md)
     * [C语言中没有异常类型，如何处理异常的呢？](c/bian-liang-lei-xing/yi-wen/c-yu-yan-zhong-mei-you-yi-chang-lei-xing-ru-he-chu-li-yi-chang-de-ne.md)
@@ -27,6 +29,10 @@
   * [for](c/bian-li/for.md)
   * [While(do..while)](c/bian-li/while-do..while.md)
   * [break & continue](c/bian-li/break-and-continue.md)
+* [函数](c/han-shu.md)
+* [闭包](c/bi-bao.md)
+* [结构体](c/jie-gou-ti.md)
+* [共用体](c/gong-yong-ti.md)
 * [小结](c/xiao-jie.md)
 
 ## C++
@@ -51,6 +57,10 @@
   * [while(do..while)](c++/bian-li/while-do..while.md)
   * [break\&continue](c++/bian-li/break-and-continue.md)
   * [迭代器](c++/bian-li/die-dai-qi.md)
+* [结构体](c++/jie-gou-ti.md)
+* [共用体](c++/gong-yong-ti.md)
+* [函数](c++/han-shu.md)
+* [闭包](c++/bi-bao.md)
 * [类(对象)](c++/lei-dui-xiang.md)
 * [模板](c++/mu-ban.md)
 * [STL](c++/stl/README.md)
