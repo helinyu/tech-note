@@ -7,6 +7,7 @@
 * [创建-(声明和定义变量和常量)](ji-ben-nei-rong/chuang-jian-sheng-ming-he-ding-yi-bian-liang-he-chang-liang.md)
 * [变量类型](ji-ben-nei-rong/bian-liang-lei-xing/README.md)
   * [symbol](ji-ben-nei-rong/bian-liang-lei-xing/symbol.md)
+  * [TS/JS 划分值类型和引用类型](ji-ben-nei-rong/bian-liang-lei-xing/tsjs-hua-fen-zhi-lei-xing-he-yin-yong-lei-xing.md)
 * [字符串/字符](ji-ben-nei-rong/zi-fu-chuan-zi-fu/README.md)
   * [引号](ji-ben-nei-rong/zi-fu-chuan-zi-fu/yin-hao.md)
   * [符号](ji-ben-nei-rong/zi-fu-chuan-zi-fu/fu-hao/README.md)
