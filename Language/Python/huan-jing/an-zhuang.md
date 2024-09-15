@@ -1,4 +1,4 @@
-# Python环境的安装
+# 安装
 
 ## 1、直接安装
 
@@ -18,7 +18,7 @@
 
 先装conda，然后通过conda创建对应的python环境可以设置python的版本
 
-
+[类似的env方式](https://docs.python.org/zh-cn/3/tutorial/venv.html)
 
 常见的是：
 
