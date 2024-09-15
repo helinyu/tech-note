@@ -1,4 +1,18 @@
-# 字符串
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# 字符串(字符)
 
 ### 前提：
 
