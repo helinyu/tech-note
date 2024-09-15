@@ -22,6 +22,7 @@
     * [其他](ji-ben-nei-rong/kong-zhi-yu-ju/bian-li/qi-ta.md)
 * [函数](ji-ben-nei-rong/han-shu/README.md)
   * [高阶函数](ji-ben-nei-rong/han-shu/gao-jie-han-shu.md)
+  * [函数签名](ji-ben-nei-rong/han-shu/han-shu-qian-ming.md)
 * [闭包(Closure)](ji-ben-nei-rong/bi-bao-closure.md)
 * [聚合的数据结构](ji-ben-nei-rong/ju-he-de-shu-ju-jie-gou/README.md)
   * [枚举](ji-ben-nei-rong/ju-he-de-shu-ju-jie-gou/mei-ju.md)
