@@ -17,3 +17,12 @@ queue 队列&#x20;
 
 
 vector（这个可能都没有了，都在array里面了）
+
+
+
+```ini
+序列结构：
+数组/列表（Array/list/vector）
+元组
+range
+```

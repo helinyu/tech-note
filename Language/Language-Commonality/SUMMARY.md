@@ -56,8 +56,11 @@
 * [模板](ji-ben-nei-rong/mu-ban.md)
 * [功能性机制](ji-ben-nei-rong/gong-neng-xing-ji-zhi.md)
 * [数据处理文件支持格式](ji-ben-nei-rong/shu-ju-chu-li-wen-jian-zhi-chi-ge-shi.md)
-* [Math库](ji-ben-nei-rong/math-ku.md)
-* [工具/库](ji-ben-nei-rong/gong-ju-ku.md)
+* [工具/库](ji-ben-nei-rong/gong-ju-ku/README.md)
+  * [标准库](ji-ben-nei-rong/gong-ju-ku/biao-zhun-ku/README.md)
+    * [Math库](ji-ben-nei-rong/gong-ju-ku/biao-zhun-ku/math-ku.md)
+  * [其他](ji-ben-nei-rong/gong-ju-ku/qi-ta.md)
+* [代码组织](ji-ben-nei-rong/dai-ma-zu-zhi.md)
 * [懒学](ji-ben-nei-rong/lan-xue.md)
 
 ## 杂点
