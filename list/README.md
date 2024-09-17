@@ -16,23 +16,23 @@ description: 主要是列出所有的内容
 
 
 
-tech-thinking  技术思想
+[tech-thinking](https://app.gitbook.com/o/y9wKH2ufewhZ84BGI0Ia/s/opkG77SH5ENkgZnfvu7l/)  技术思想
 
-&#x20;   source read 源码阅读
+&#x20;   [source read](https://app.gitbook.com/o/y9wKH2ufewhZ84BGI0Ia/s/opkG77SH5ENkgZnfvu7l/) 源码阅读
 
-backend 后端
+[backend ](https://app.gitbook.com/o/y9wKH2ufewhZ84BGI0Ia/s/AZkvunDByDNxTeyDAPqs/)后端
 
-AI  人工智能
+[AI  人工智能](https://app.gitbook.com/o/y9wKH2ufewhZ84BGI0Ia/s/9CuWxxElvlEfBKpHYIlJ/)
 
-apple 移动端（到时候改名字）
+[apple 移动端](https://app.gitbook.com/o/y9wKH2ufewhZ84BGI0Ia/s/IAjQgZnbQIolEePFfNLh/)（到时候改名字）
 
-cross-end 跨端
+[cross-end](https://app.gitbook.com/o/y9wKH2ufewhZ84BGI0Ia/s/UjWiWVHdUWU4AcpxWtrE/) 跨端
 
-tools 工具
+[tools](https://app.gitbook.com/o/y9wKH2ufewhZ84BGI0Ia/s/FGT6SyMeIlHqQihLoxut/) 工具
 
-language 编程语言
+[language ](https://app.gitbook.com/o/y9wKH2ufewhZ84BGI0Ia/s/oktJekFzE7JPO1ciai6o/)编程语言
 
-compile 编译原理
+[compile](https://app.gitbook.com/o/y9wKH2ufewhZ84BGI0Ia/s/z5iPRyZpIfURTNOzUcue/) 编译原理
 
 [algorithm](https://hly-tech.gitbook.io/algorithm) 算法
 
