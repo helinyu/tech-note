@@ -18,3 +18,9 @@
 * [Javascript](leetcode-jie-gou/javascript/README.md)
   * [优先队列](leetcode-jie-gou/javascript/you-xian-dui-lie.md)
 * [C++](leetcode-jie-gou/c++.md)
+
+## 公司面试题目
+
+* [汇丰银行](gong-si-mian-shi-ti-mu/hui-feng-yin-hang/README.md)
+  * [跑步同一个脚印问题](gong-si-mian-shi-ti-mu/hui-feng-yin-hang/pao-bu-tong-yi-ge-jiao-yin-wen-ti.md)
+  * [销售系统问题](gong-si-mian-shi-ti-mu/hui-feng-yin-hang/xiao-shou-xi-tong-wen-ti.md)
