@@ -34,7 +34,9 @@ description: 主要是列出所有的内容
 
 [compile](https://app.gitbook.com/o/y9wKH2ufewhZ84BGI0Ia/s/z5iPRyZpIfURTNOzUcue/) 编译原理
 
-[algorithm](https://hly-tech.gitbook.io/algorithm) 算法
+[algorithm 算法](https://app.gitbook.com/o/y9wKH2ufewhZ84BGI0Ia/s/3tyex40KQLTShWtdpP2Y/)
+
+[web 网页开发](https://app.gitbook.com/o/y9wKH2ufewhZ84BGI0Ia/s/6EnmcMASLiRBpRy3vdOT/)
 
 
 
