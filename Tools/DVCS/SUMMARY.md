@@ -6,6 +6,7 @@
   * [源码地址](fossil/yuan-ma-di-zhi.md)
   * [和git区别](fossil/he-git-qu-bie.md)
   * [fossil基本使用](fossil/fossil-ji-ben-shi-yong.md)
+  * [fossil应用与项目的例子](fossil/fossil-ying-yong-yu-xiang-mu-di-li-zi.md)
 
 ## 区别
 
