@@ -38,6 +38,8 @@
   * [结构体](c/ju-he-shu-ju-jie-gou/jie-gou-ti.md)
   * [共用体](c/ju-he-shu-ju-jie-gou/gong-yong-ti.md)
 * [小结](c/xiao-jie.md)
+* [编译器](c/bian-yi-qi/README.md)
+  * [CFLAGS](c/bian-yi-qi/cflags.md)
 
 ## C++
 
