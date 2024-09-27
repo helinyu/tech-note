@@ -156,3 +156,8 @@
 * [C++的内存管理](c++-de-nei-cun-guan-li.md)
 * [OC的内存管理](oc-de-nei-cun-guan-li.md)
 * [OC中的自动应用技术和自动释放池关系](oc-zhong-de-zi-dong-ying-yong-ji-shu-he-zi-dong-shi-fang-chi-guan-xi.md)
+
+## 知识点
+
+* [\_\_cdecl](zhi-shi-dian/\_\_cdecl/README.md)
+  * [\_\_fastcall、\_\_thiscall、\_\_cdecl、\_\_stdcall关系与区别](zhi-shi-dian/\_\_cdecl/fastcallthiscallcdeclstdcall-guan-xi-yu-qu-bie.md)
