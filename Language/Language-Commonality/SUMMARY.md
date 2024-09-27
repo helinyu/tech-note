@@ -73,3 +73,8 @@
 
 * [程序中是否对代码也进行了unicode编码？还是只是对字符串常量编码？](cheng-xu-zhong-shi-fou-dui-dai-ma-ye-jin-xing-le-unicode-bian-ma-hai-shi-zhi-shi-dui-zi-fu-chuan-cha.md)
 * [单/双引号和字符(串)的关系](dan-shuang-yin-hao-he-zi-fu-chuan-de-guan-xi.md)
+
+## 专业词语
+
+* [柯里化（Currying）](zhuan-ye-ci-yu/ke-li-hua-currying.md)
+* [语法糖(Syntactic Sugar)](zhuan-ye-ci-yu/yu-fa-tang-syntactic-sugar.md)
