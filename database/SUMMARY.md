@@ -1,6 +1,7 @@
 # Table of contents
 
 * [README](README.md)
+  * [数据库功能有哪些](readme/shu-ju-ku-gong-neng-you-na-xie.md)
 * [WCDB](wcdb/README.md)
   * [Page](wcdb/page.md)
 * [Sqlite](sqlite/README.md)
@@ -11,6 +12,7 @@
     * [sqlite源码编译调试](sqlite/zhun-bei-cha-xun/sqlite-yuan-ma-bian-yi-tiao-shi.md)
   * [源码阅读](sqlite/yuan-ma-yue-du/README.md)
     * [源码编译](sqlite/yuan-ma-yue-du/yuan-ma-bian-yi.md)
+    * [sqlite3支持了哪些功能？](sqlite/yuan-ma-yue-du/sqlite3-zhi-chi-le-na-xie-gong-neng.md)
     * [文件架构](sqlite/yuan-ma-yue-du/wen-jian-jia-gou/README.md)
       * [tokenize.c](sqlite/yuan-ma-yue-du/wen-jian-jia-gou/tokenize.c/README.md)
         * [tokenize.c 和lex的关系与区别](sqlite/yuan-ma-yue-du/wen-jian-jia-gou/tokenize.c/tokenize.c-he-lex-de-guan-xi-yu-qu-bie.md)
