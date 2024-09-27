@@ -25,3 +25,8 @@
 ## 比较
 
 * [mysql中是否有sqlite中的FTS虚拟表？](bi-jiao/mysql-zhong-shi-fou-you-sqlite-zhong-de-fts-xu-ni-biao.md)
+
+## 杂点
+
+* [BLOB](za-dian/blob.md)
+* [EBCDIC](za-dian/ebcdic.md)
