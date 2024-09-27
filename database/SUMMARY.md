@@ -23,3 +23,7 @@
 ## 比较
 
 * [mysql中是否有sqlite中的FTS虚拟表？](bi-jiao/mysql-zhong-shi-fou-you-sqlite-zhong-de-fts-xu-ni-biao.md)
+
+## 其他
+
+* [搜索引擎原理](qi-ta/sou-suo-yin-qing-yuan-li.md)
