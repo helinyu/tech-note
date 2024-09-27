@@ -11,3 +11,6 @@
     * [sqlite源码编译调试](sqlite/zhun-bei-cha-xun/sqlite-yuan-ma-bian-yi-tiao-shi.md)
   * [源码阅读](sqlite/yuan-ma-yue-du/README.md)
     * [源码编译](sqlite/yuan-ma-yue-du/yuan-ma-bian-yi.md)
+    * [文件架构](sqlite/yuan-ma-yue-du/wen-jian-jia-gou/README.md)
+      * [tokenize.c](sqlite/yuan-ma-yue-du/wen-jian-jia-gou/tokenize.c/README.md)
+        * [tokenize.c 和lex的关系与区别](sqlite/yuan-ma-yue-du/wen-jian-jia-gou/tokenize.c/tokenize.c-he-lex-de-guan-xi-yu-qu-bie.md)
