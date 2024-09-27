@@ -14,3 +14,10 @@
     * [文件架构](sqlite/yuan-ma-yue-du/wen-jian-jia-gou/README.md)
       * [tokenize.c](sqlite/yuan-ma-yue-du/wen-jian-jia-gou/tokenize.c/README.md)
         * [tokenize.c 和lex的关系与区别](sqlite/yuan-ma-yue-du/wen-jian-jia-gou/tokenize.c/tokenize.c-he-lex-de-guan-xi-yu-qu-bie.md)
+* [Mysql](mysql/README.md)
+  * [视图(View)](mysql/shi-tu-view.md)
+  * [存储过程和函数](mysql/cun-chu-guo-cheng-he-han-shu.md)
+
+## 比较
+
+* [mysql中是否有sqlite中的FTS虚拟表？](bi-jiao/mysql-zhong-shi-fou-you-sqlite-zhong-de-fts-xu-ni-biao.md)
