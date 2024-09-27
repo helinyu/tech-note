@@ -14,6 +14,8 @@
     * [文件架构](sqlite/yuan-ma-yue-du/wen-jian-jia-gou/README.md)
       * [tokenize.c](sqlite/yuan-ma-yue-du/wen-jian-jia-gou/tokenize.c/README.md)
         * [tokenize.c 和lex的关系与区别](sqlite/yuan-ma-yue-du/wen-jian-jia-gou/tokenize.c/tokenize.c-he-lex-de-guan-xi-yu-qu-bie.md)
+  * [版本升级](sqlite/ban-ben-sheng-ji/README.md)
+    * [fts5 和fts3的区别](sqlite/ban-ben-sheng-ji/fts5-he-fts3-de-qu-bie.md)
 * [Mysql](mysql/README.md)
   * [视图(View)](mysql/shi-tu-view.md)
   * [存储过程和函数](mysql/cun-chu-guo-cheng-he-han-shu.md)
