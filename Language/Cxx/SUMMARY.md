@@ -161,3 +161,8 @@
 
 * [\_\_cdecl](zhi-shi-dian/\_\_cdecl/README.md)
   * [\_\_fastcall、\_\_thiscall、\_\_cdecl、\_\_stdcall关系与区别](zhi-shi-dian/\_\_cdecl/fastcallthiscallcdeclstdcall-guan-xi-yu-qu-bie.md)
+* [wchar](zhi-shi-dian/wchar.md)
+* [setvbuf函数](zhi-shi-dian/setvbuf-han-shu.md)
+* [isatty函数](zhi-shi-dian/isatty-han-shu.md)
+* [STDIN\_FILENO](zhi-shi-dian/stdin\_fileno.md)
+* [C中内存操作函数(5个)](zhi-shi-dian/c-zhong-nei-cun-cao-zuo-han-shu-5-ge.md)

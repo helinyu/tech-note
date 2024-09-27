@@ -101,6 +101,10 @@ printf("Hello\nWorld");  // 输出时换行
 
 <figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
+## 8、内存操作
+
+&#x20;[内存操作函数](../../zhi-shi-dian/c-zhong-nei-cun-cao-zuo-han-shu-5-ge.md)
+
 ## 总结
 
 字符是基本的数据类型，表示一个单一的字符，并存储为 ASCII 值。
