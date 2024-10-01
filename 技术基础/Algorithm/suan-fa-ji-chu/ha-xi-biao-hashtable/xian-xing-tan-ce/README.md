@@ -1,4 +1,4 @@
-# c线性探测
+# 线性探测
 
 下面是一个使用线性探测法解决冲突的哈希表实现，支持扩容和缩小功能。
 
@@ -159,3 +159,8 @@ int main(void) {
 这里设置负载因子很重要，永远都是小于的1，负载因子影响着哈希表的增大和缩小。
 {% endhint %}
 
+
+
+***
+
+[iOS的runtime实现的DenseMap](https://hly-tech.gitbook.io/front-end/ios/xiang-guan-yuan-ma-yue-du/objc4/chou-mi-ha-xi-biao-densemapdenseset)
