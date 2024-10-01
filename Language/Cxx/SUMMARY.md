@@ -87,6 +87,9 @@
       * [操作流是否可以不需要使用fopen？](c/qi-ta/io/yi-wen/cao-zuo-liu-shi-fou-ke-yi-bu-xu-yao-shi-yong-fopen.md)
   * [编译器](c/qi-ta/bian-yi-qi/README.md)
     * [CFLAGS](c/qi-ta/bian-yi-qi/cflags.md)
+  * [关键函数](c/qi-ta/guan-jian-han-shu/README.md)
+    * [memccpy、memcpy、mempcpy、memmove 和 memset](c/qi-ta/guan-jian-han-shu/memccpymemcpymempcpymemmove-he-memset.md)
+    * [字符串拷贝和追加](c/qi-ta/guan-jian-han-shu/zi-fu-chuan-kao-bei-he-zhui-jia.md)
 
 ## C++
 
