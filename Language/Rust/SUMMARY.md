@@ -6,7 +6,9 @@
 
 * [目的/概述](ji-ben-nei-rong/mu-di-gai-shu/README.md)
   * [应用](ji-ben-nei-rong/mu-di-gai-shu/ying-yong.md)
-* [环境](ji-ben-nei-rong/huan-jing.md)
+* [环境](ji-ben-nei-rong/huan-jing/README.md)
+  * [rustc、rustup 和 cargo](ji-ben-nei-rong/huan-jing/rustcrustup-he-cargo.md)
+  * [类比node中的工具](ji-ben-nei-rong/huan-jing/lei-bi-node-zhong-de-gong-ju.md)
 * [声明变量/常量](ji-ben-nei-rong/sheng-ming-bian-liang-chang-liang.md)
 * [变量类型](ji-ben-nei-rong/bian-liang-lei-xing.md)
 * [字符串](ji-ben-nei-rong/zi-fu-chuan/README.md)
