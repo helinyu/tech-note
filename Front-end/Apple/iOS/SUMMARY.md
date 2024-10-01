@@ -9,3 +9,4 @@
     * [Small/DenseMap](xiang-guan-yuan-ma-yue-du/objc4/chou-mi-ha-xi-biao-densemapdenseset/small-densemap.md)
     * [DenseMapInfo](xiang-guan-yuan-ma-yue-du/objc4/chou-mi-ha-xi-biao-densemapdenseset/densemapinfo.md)
     * [Small/DenseSet](xiang-guan-yuan-ma-yue-du/objc4/chou-mi-ha-xi-biao-densemapdenseset/small-denseset.md)
+    * [DenseMapPair](xiang-guan-yuan-ma-yue-du/objc4/chou-mi-ha-xi-biao-densemapdenseset/densemappair.md)
