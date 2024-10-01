@@ -156,6 +156,9 @@
         * [属性和方法](c++/ju-he-shu-ju-jie-gou/stl/rong-qi-shi-pei-qi/you-xian-dui-lie/shu-xing-he-fang-fa.md)
         * [详细内容](c++/ju-he-shu-ju-jie-gou/stl/rong-qi-shi-pei-qi/you-xian-dui-lie/xiang-xi-nei-rong.md)
 * [模板](c++/mu-ban.md)
+* [其他](c++/qi-ta/README.md)
+  * [域名空间(namespace)](c++/qi-ta/yu-ming-kong-jian-namespace.md)
+  * [Page](c++/qi-ta/page.md)
 
 ## Objective-C
 
@@ -193,6 +196,7 @@
   * [静态变量](za-dian/yi-wen/jing-tai-bian-liang/README.md)
     * [静态变量内容](za-dian/yi-wen/jing-tai-bian-liang/jing-tai-bian-liang-nei-rong.md)
     * [为什么需要静态变量](za-dian/yi-wen/jing-tai-bian-liang/wei-shen-me-xu-yao-jing-tai-bian-liang.md)
+* [C++可以继承结构体？](za-dian/c++-ke-yi-ji-cheng-jie-gou-ti.md)
 * [C 和C++字符串的关系和区别](za-dian/c-he-c++-zi-fu-chuan-de-guan-xi-he-qu-bie.md)
 * [C和C++在字符上的区别](za-dian/c-he-c++-zai-zi-fu-shang-de-qu-bie.md)
 * [vector和数组（使用\[\]定义）有以下关系和区别](za-dian/vector-he-shu-zu-shi-yong-ding-yi-you-yi-xia-guan-xi-he-qu-bie.md)
