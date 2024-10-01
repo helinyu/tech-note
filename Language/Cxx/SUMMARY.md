@@ -167,6 +167,7 @@
   * [右移](c++/qi-ta/you-yi/README.md)
     * [为什么右值实现移动语义？为什么避免了拷贝？难道左值就要拷贝么？](c++/qi-ta/you-yi/wei-shen-me-you-zhi-shi-xian-yi-dong-yu-yi-wei-shen-me-bi-mian-le-kao-bei-nan-dao-zuo-zhi-jiu-yao-ka.md)
     * [右移是否可以理解为将一个变量的资源转化为目标变量的资源？](c++/qi-ta/you-yi/you-yi-shi-fou-ke-yi-li-jie-wei-jiang-yi-ge-bian-liang-de-zi-yuan-zhuan-hua-wei-mu-biao-bian-liang-d.md)
+    * [C++中的右移、rust中的所有权和借用、swift的自动内存管理](c++/qi-ta/you-yi/c++-zhong-de-you-yi-rust-zhong-de-suo-you-quan-he-jie-yong-swift-de-zi-dong-nei-cun-guan-li.md)
 
 ## Objective-C
 
