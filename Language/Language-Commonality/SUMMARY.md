@@ -1,7 +1,8 @@
 # Table of contents
 
 * [README](README.md)
-* [快速入手关注](kuai-su-ru-shou-guan-zhu.md)
+* [重点关注](zhong-dian-guan-zhu.md)
+* [快速入手关注](xin-yu-yan-xue-xi-de-guan-zhu-dian.md)
 
 ## 基本内容
 
