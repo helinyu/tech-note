@@ -1,6 +1,7 @@
 # Table of contents
 
 * [README](README.md)
+* [新语言学习的关注点](xin-yu-yan-xue-xi-de-guan-zhu-dian.md)
 
 ## 基本内容
 
