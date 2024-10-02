@@ -1,7 +1,8 @@
 # Table of contents
 
 * [README](README.md)
-* [新语言快速入手掌握点](xin-yu-yan-kuai-su-ru-shou-zhang-wo-dian.md)
+* [重点关注](zhong-dian-guan-zhu.md)
+* [快速入手关注](kuai-su-ru-shou-guan-zhu.md)
 
 ## 基本内容
 
