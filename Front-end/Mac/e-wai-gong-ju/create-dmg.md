@@ -44,9 +44,11 @@
 
 #### 2、听过github上的release
 
+vcb在release上
+
 #### 3、通过brew， 让别人安装
 
-
+[创建brew的源软件](https://app.gitbook.com/s/VudVGowEJiiTWxGP51Wb/brew)
 
 
 
