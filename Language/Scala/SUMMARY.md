@@ -1,6 +1,7 @@
 # Table of contents
 
 * [README](README.md)
+* [新语言快速入手掌握点](xin-yu-yan-kuai-su-ru-shou-zhang-wo-dian.md)
 
 ## 基本内容
 
@@ -21,6 +22,7 @@
   * [基本数据类型](ji-ben-nei-rong/bian-liang-lei-xing/ji-ben-shu-ju-lei-xing.md)
   * [字符串](ji-ben-nei-rong/bian-liang-lei-xing/zi-fu-chuan/README.md)
     * [引号](ji-ben-nei-rong/bian-liang-lei-xing/zi-fu-chuan/yin-hao/README.md)
+      * [插值](ji-ben-nei-rong/bian-liang-lei-xing/zi-fu-chuan/yin-hao/cha-zhi.md)
       * [单引号、双引号、三重引号、反引号](ji-ben-nei-rong/bian-liang-lei-xing/zi-fu-chuan/yin-hao/dan-yin-hao-shuang-yin-hao-san-chong-yin-hao-fan-yin-hao.md)
     * [字符](ji-ben-nei-rong/bian-liang-lei-xing/zi-fu-chuan/zi-fu.md)
   * [聚合的数据结构](ji-ben-nei-rong/bian-liang-lei-xing/ju-he-de-shu-ju-jie-gou/README.md)
