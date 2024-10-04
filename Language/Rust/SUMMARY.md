@@ -87,8 +87,16 @@
 * [其他](ji-ben-nei-rong/lan-xue/README.md)
   * [内存安全机制(\*)](ji-ben-nei-rong/lan-xue/nei-cun-an-quan-ji-zhi/README.md)
     * [所有权](ji-ben-nei-rong/lan-xue/nei-cun-an-quan-ji-zhi/suo-you-quan/README.md)
-      * [类比](ji-ben-nei-rong/lan-xue/nei-cun-an-quan-ji-zhi/suo-you-quan/lei-bi.md)
-      * [所有权](ji-ben-nei-rong/lan-xue/nei-cun-an-quan-ji-zhi/suo-you-quan/suo-you-quan.md)
+      * [类比](ji-ben-nei-rong/lan-xue/nei-cun-an-quan-ji-zhi/suo-you-quan/chu-le-rust-shi-yong-suo-you-quan-de-fang-shi-zhi-wai-hai-you-shen-me-yu-yan.md)
+      * [所有权](ji-ben-nei-rong/lan-xue/nei-cun-an-quan-ji-zhi/suo-you-quan/suo-you-quan/README.md)
+        * [什么是所有权](ji-ben-nei-rong/lan-xue/nei-cun-an-quan-ji-zhi/suo-you-quan/suo-you-quan/shen-me-shi-suo-you-quan/README.md)
+          * [1、规则](ji-ben-nei-rong/lan-xue/nei-cun-an-quan-ji-zhi/suo-you-quan/suo-you-quan/shen-me-shi-suo-you-quan/1-gui-ze.md)
+          * [2、变量作用域](ji-ben-nei-rong/lan-xue/nei-cun-an-quan-ji-zhi/suo-you-quan/suo-you-quan/shen-me-shi-suo-you-quan/2-bian-liang-zuo-yong-yu.md)
+          * [3、String类型](ji-ben-nei-rong/lan-xue/nei-cun-an-quan-ji-zhi/suo-you-quan/suo-you-quan/shen-me-shi-suo-you-quan/3string-lei-xing.md)
+          * [4、内存与分配](ji-ben-nei-rong/lan-xue/nei-cun-an-quan-ji-zhi/suo-you-quan/suo-you-quan/shen-me-shi-suo-you-quan/4-nei-cun-yu-fen-pei.md)
+          * [5、所有权与函数](ji-ben-nei-rong/lan-xue/nei-cun-an-quan-ji-zhi/suo-you-quan/suo-you-quan/shen-me-shi-suo-you-quan/5-suo-you-quan-yu-han-shu.md)
+          * [6、返回值与作用域](ji-ben-nei-rong/lan-xue/nei-cun-an-quan-ji-zhi/suo-you-quan/suo-you-quan/shen-me-shi-suo-you-quan/6-fan-hui-zhi-yu-zuo-yong-yu.md)
+        * [Page](ji-ben-nei-rong/lan-xue/nei-cun-an-quan-ji-zhi/suo-you-quan/suo-you-quan/page.md)
 
 ## 杂点
 
