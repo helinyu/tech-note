@@ -1,6 +1,7 @@
 # Table of contents
 
 * [README](README.md)
+* [重点关注](zhong-dian-guan-zhu.md)
 
 ## 基本内容
 
@@ -86,7 +87,8 @@
 * [其他](ji-ben-nei-rong/lan-xue/README.md)
   * [内存安全机制(\*)](ji-ben-nei-rong/lan-xue/nei-cun-an-quan-ji-zhi/README.md)
     * [所有权](ji-ben-nei-rong/lan-xue/nei-cun-an-quan-ji-zhi/suo-you-quan/README.md)
-      * [除了rust使用所有权的方式之外，还有什么语言？](ji-ben-nei-rong/lan-xue/nei-cun-an-quan-ji-zhi/suo-you-quan/chu-le-rust-shi-yong-suo-you-quan-de-fang-shi-zhi-wai-hai-you-shen-me-yu-yan.md)
+      * [类比](ji-ben-nei-rong/lan-xue/nei-cun-an-quan-ji-zhi/suo-you-quan/lei-bi.md)
+      * [所有权](ji-ben-nei-rong/lan-xue/nei-cun-an-quan-ji-zhi/suo-you-quan/suo-you-quan.md)
 
 ## 杂点
 
