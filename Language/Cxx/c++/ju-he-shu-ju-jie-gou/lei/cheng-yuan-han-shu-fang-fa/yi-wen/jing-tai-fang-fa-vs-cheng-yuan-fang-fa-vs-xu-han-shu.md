@@ -12,16 +12,15 @@
 
 **示例：**
 
-```cpp
-class MyClass {
+<pre class="language-cpp"><code class="lang-cpp">class MyClass {
 public:
     static void staticMethod() {
-        // 静态方法代码
-    }
+<strong>        // 静态方法代码
+</strong>    }
 };
 
 MyClass::staticMethod(); // 通过类名调用静态方法
-```
+</code></pre>
 
 #### 2. **成员方法（Member Method）**
 
