@@ -90,6 +90,9 @@
   * [关键函数](c/qi-ta/guan-jian-han-shu/README.md)
     * [memccpy、memcpy、mempcpy、memmove 和 memset](c/qi-ta/guan-jian-han-shu/memccpymemcpymempcpymemmove-he-memset.md)
     * [字符串拷贝和追加](c/qi-ta/guan-jian-han-shu/zi-fu-chuan-kao-bei-he-zhui-jia.md)
+  * [内存安全管理](c/qi-ta/nei-cun-an-quan-guan-li/README.md)
+    * [内存管理](c/qi-ta/nei-cun-an-quan-guan-li/nei-cun-guan-li.md)
+    * [内存管理函数](c/qi-ta/nei-cun-an-quan-guan-li/nei-cun-guan-li-han-shu.md)
 
 ## C++
 
@@ -168,7 +171,8 @@
     * [为什么右值实现移动语义？为什么避免了拷贝？难道左值就要拷贝么？](c++/qi-ta/you-yi/wei-shen-me-you-zhi-shi-xian-yi-dong-yu-yi-wei-shen-me-bi-mian-le-kao-bei-nan-dao-zuo-zhi-jiu-yao-ka.md)
     * [右移是否可以理解为将一个变量的资源转化为目标变量的资源？](c++/qi-ta/you-yi/you-yi-shi-fou-ke-yi-li-jie-wei-jiang-yi-ge-bian-liang-de-zi-yuan-zhuan-hua-wei-mu-biao-bian-liang-d.md)
     * [C++中的右移、rust中的所有权和借用、swift的自动内存管理](c++/qi-ta/you-yi/c++-zhong-de-you-yi-rust-zhong-de-suo-you-quan-he-jie-yong-swift-de-zi-dong-nei-cun-guan-li.md)
-  * [内存管理](c++/qi-ta/nei-cun-guan-li.md)
+  * [内存管理](c++/qi-ta/nei-cun-guan-li/README.md)
+    * [内存管理函数](c++/qi-ta/nei-cun-guan-li/nei-cun-guan-li-han-shu.md)
 
 ## Objective-C
 
@@ -202,6 +206,8 @@
 
 ## 杂点
 
+* [Valgrind、GDB 、 LLDB](za-dian/valgrind-gdb-lldb/README.md)
+  * [Valgrind类似工具](za-dian/valgrind-gdb-lldb/valgrind-lei-si-gong-ju.md)
 * [疑问](za-dian/yi-wen/README.md)
   * [静态变量](za-dian/yi-wen/jing-tai-bian-liang/README.md)
     * [静态变量内容](za-dian/yi-wen/jing-tai-bian-liang/jing-tai-bian-liang-nei-rong.md)
