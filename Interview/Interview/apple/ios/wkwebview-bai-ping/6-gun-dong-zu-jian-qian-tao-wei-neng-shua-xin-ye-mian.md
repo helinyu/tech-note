@@ -1,0 +1,3 @@
+# 6、滚动组件嵌套，未能刷新页面
+
+在UITableView或UICollectionView中嵌套WKWebView引起的，可以试着将UITableView或UICollectionView中替换为UIScrollview 。可能是因为页面滚动后没有正常的调用 WKWebView 的 \_updateVisibleContentRects 方法刷新需要渲染的内容导致的。
