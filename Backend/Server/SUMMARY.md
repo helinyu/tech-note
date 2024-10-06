@@ -2,3 +2,13 @@
 
 * [README](README.md)
 * [Node.js、Deno、Bun](node.js-deno-bun.md)
+* [即时通信](ji-shi-tong-xin/README.md)
+  * [准备知识点](ji-shi-tong-xin/zhun-bei-zhi-shi-dian/README.md)
+    * [架构](ji-shi-tong-xin/zhun-bei-zhi-shi-dian/jia-gou.md)
+    * [技术选型](ji-shi-tong-xin/zhun-bei-zhi-shi-dian/ji-shu-xuan-xing.md)
+    * [Socket.IO、Netty、Akka、RabbitMQ 、Kafka](ji-shi-tong-xin/zhun-bei-zhi-shi-dian/socket.io-netty-akka-rabbitmq-kafka.md)
+  * [实现一个简单的IM服务器](ji-shi-tong-xin/shi-xian-yi-ge-jian-dan-de-im-fu-wu-qi.md)
+  * [socket.io](ji-shi-tong-xin/socket.io.md)
+* [暂时内容](zan-shi-nei-rong/README.md)
+  * [CommonJS vs ES Modules](zan-shi-nei-rong/commonjs-vs-es-modules.md)
+  * [Horizontal scaling(水平扩展)和Vertical scaling(垂直扩展)](zan-shi-nei-rong/horizontal-scaling-shui-ping-kuo-zhan-he-vertical-scaling-chui-zhi-kuo-zhan.md)
