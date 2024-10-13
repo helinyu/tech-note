@@ -41,63 +41,7 @@ MVVM模式的典型数据流如下：
 * **企业应用**：对于需要高可维护性和可测试性的企业级应用，MVVM提供了良好的架构支持。
 * **现代前端框架**：许多现代前端框架（如Angular、React、Vue.js、SwiftUI）都在某种程度上实现了MVVM或类似的架构。
 
-#### 5. 示例
+<figure><img src="../../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-以下是一个简单的MVVM示例，展示了如何在一个应用程序中实现MVVM模式（伪代码）：
-
-```plaintext
-// Model
-class UserModel {
-    private String name;
-    
-    public String getName() {
-        return name;
-    }
-    
-    public void setName(String name) {
-        this.name = name;
-    }
-}
-
-// View
-interface UserView {
-    void displayUserName(String userName);
-}
-
-// ViewModel
-class UserViewModel {
-    private UserModel model;
-    private UserView view;
-
-    public UserViewModel(UserModel model, UserView view) {
-        this.model = model;
-        this.view = view;
-    }
-
-    public void setUserName(String name) {
-        model.setName(name);
-        view.displayUserName(model.getName());
-    }
-}
-
-// 使用示例
-public class MVVDemo implements UserView {
-    public static void main(String[] args) {
-        UserModel model = new UserModel();
-        MVVDemo view = new MVVDemo();
-        UserViewModel viewModel = new UserViewModel(model, view);
-        
-        viewModel.setUserName("Alice Smith");
-    }
-
-    @Override
-    public void displayUserName(String userName) {
-        System.out.println("User Name: " + userName);
-    }
-}
-```
-
-#### 小结
-
-MVVM模式通过将应用程序的不同关注点分开，提供了一个灵活、可维护和可测试的结构。在许多现代应用程序中，MVVM是一种流行的设计模式，尤其是在需要处理复杂用户界面的情况下。
+**小结**：<mark style="color:red;">ViewModel代替Presenter，增加了数据绑定的功能</mark>。
 

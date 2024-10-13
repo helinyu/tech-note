@@ -1,6 +1,6 @@
 # MVP
 
-MVP（Model-View-Presenter）是一种软件架构模式，旨在通过将应用程序的逻辑、数据和用户界面分开，提高可维护性和可测试性。MVP模式常用于构建用户界面，特别是在桌面和移动应用中。以下是MVP的详细内容：
+基于MVC的改良
 
 #### 1. 组件概述
 
@@ -39,62 +39,15 @@ MVP模式的典型数据流如下：
 * **桌面应用程序**：MVP常用于需要频繁更新UI的桌面应用程序，如Java Swing、Windows Forms等。
 * **移动应用程序**：MVP也广泛应用于Android应用程序开发，因为它可以帮助组织代码并提高可测试性。
 
-#### 5. 示例
+<figure><img src="../../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-以下是一个简单的MVP示例，展示了如何在一个应用程序中实现MVP模式（伪代码）：
+<mark style="color:orange;">View它持有Presenter作为变量（和MVC的差别）</mark>。
 
-```plaintext
-// Model
-class UserModel {
-    private String name;
-    
-    public String getName() {
-        return name;
-    }
-    
-    public void setName(String name) {
-        this.name = name;
-    }
-}
+> View持有Presenter，所以Presenter中的View应该声明为weak或unowned，避免循环。
 
-// View
-interface UserView {
-    void displayUserName(String userName);
-}
 
-// Presenter
-class UserPresenter {
-    private UserModel model;
-    private UserView view;
 
-    public UserPresenter(UserModel model, UserView view) {
-        this.model = model;
-        this.view = view;
-    }
+**优点**：解耦View和Controller之间的耦合，将View和Presenter区分得更加清楚。将业务划分更加精细\
+**缺点**：View所有的交互都传给Presenter处理，一旦项目功能增加了，View的代码和Presenter的代码将会增加。 相比MVC在C一个文件里面就解决，MVP总代码量会增加。App维护成本和文件会增大。\
 
-    public void setUserName(String name) {
-        model.setName(name);
-        view.displayUserName(model.getName());
-    }
-}
 
-// 使用示例
-public class MVPDemo implements UserView {
-    public static void main(String[] args) {
-        UserModel model = new UserModel();
-        MVPDemo view = new MVPDemo();
-        UserPresenter presenter = new UserPresenter(model, view);
-        
-        presenter.setUserName("Jane Doe");
-    }
-
-    @Override
-    public void displayUserName(String userName) {
-        System.out.println("User Name: " + userName);
-    }
-}
-```
-
-#### 小结
-
-MVP模式通过将应用程序的不同关注点分开，提供了一个灵活、可维护和可测试的结构。在许多桌面和移动应用程序中，MVP仍然是一个重要的设计模式。
