@@ -254,3 +254,10 @@
 * [isatty函数](zhi-shi-dian/isatty-han-shu.md)
 * [STDIN\_FILENO](zhi-shi-dian/stdin\_fileno.md)
 * [C中内存操作函数(5个)](zhi-shi-dian/c-zhong-nei-cun-cao-zuo-han-shu-5-ge.md)
+
+## 工具
+
+* [Valgrind](gong-ju/valgrind/README.md)
+  * [GDB vs Valgrind](gong-ju/valgrind/gdb-vs-valgrind.md)
+  * [疑问](gong-ju/valgrind/yi-wen.md)
+* [dsymutil](gong-ju/dsymutil.md)
