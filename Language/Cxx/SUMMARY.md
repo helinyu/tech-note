@@ -93,6 +93,10 @@
   * [内存安全管理](c/qi-ta/nei-cun-an-quan-guan-li/README.md)
     * [内存管理](c/qi-ta/nei-cun-an-quan-guan-li/nei-cun-guan-li.md)
     * [内存管理函数](c/qi-ta/nei-cun-an-quan-guan-li/nei-cun-guan-li-han-shu.md)
+  * [环境变量](c/qi-ta/huan-jing-bian-liang/README.md)
+    * [getenv和setenv](c/qi-ta/huan-jing-bian-liang/getenv-he-setenv/README.md)
+      * [Windows](c/qi-ta/huan-jing-bian-liang/getenv-he-setenv/windows.md)
+    * [隐式文件.env](c/qi-ta/huan-jing-bian-liang/yin-shi-wen-jian-.env.md)
 
 ## C++
 
