@@ -223,6 +223,7 @@
   * [类](objective-c/ju-he-shu-ju-jie-gou/lei.md)
 * [其他](objective-c/qi-ta/README.md)
   * [\_\_covariant协变](objective-c/qi-ta/covariant-xie-bian.md)
+  * [OC中泛型继承以及协议](objective-c/qi-ta/oc-zhong-fan-xing-ji-cheng-yi-ji-xie-yi.md)
 
 ## 杂点
 
