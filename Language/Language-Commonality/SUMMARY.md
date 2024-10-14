@@ -64,7 +64,9 @@
     * [Math库](ji-ben-nei-rong/gong-ju-ku/biao-zhun-ku/math-ku.md)
   * [其他](ji-ben-nei-rong/gong-ju-ku/qi-ta.md)
 * [代码组织](ji-ben-nei-rong/dai-ma-zu-zhi.md)
-* [懒学](ji-ben-nei-rong/lan-xue.md)
+* [其他](ji-ben-nei-rong/lan-xue/README.md)
+  * [协变](ji-ben-nei-rong/lan-xue/xie-bian/README.md)
+    * [疑惑](ji-ben-nei-rong/lan-xue/xie-bian/yi-huo.md)
 
 ## 杂点
 
