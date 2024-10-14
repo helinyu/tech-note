@@ -67,6 +67,7 @@
 * [其他](ji-ben-nei-rong/lan-xue/README.md)
   * [协变](ji-ben-nei-rong/lan-xue/xie-bian/README.md)
     * [疑惑](ji-ben-nei-rong/lan-xue/xie-bian/yi-huo.md)
+  * [Trampoline](ji-ben-nei-rong/lan-xue/trampoline.md)
 
 ## 杂点
 
