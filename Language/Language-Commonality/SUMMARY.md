@@ -65,8 +65,14 @@
   * [其他](ji-ben-nei-rong/gong-ju-ku/qi-ta.md)
 * [代码组织](ji-ben-nei-rong/dai-ma-zu-zhi.md)
 * [其他](ji-ben-nei-rong/lan-xue/README.md)
-  * [协变](ji-ben-nei-rong/lan-xue/xie-bian/README.md)
-    * [疑惑](ji-ben-nei-rong/lan-xue/xie-bian/yi-huo.md)
+  * [类型安全](ji-ben-nei-rong/lan-xue/lei-xing-an-quan/README.md)
+    * [协变 vs 逆变](ji-ben-nei-rong/lan-xue/lei-xing-an-quan/xie-bian-vs-ni-bian/README.md)
+      * [为什么要有这样的概念？](ji-ben-nei-rong/lan-xue/lei-xing-an-quan/xie-bian-vs-ni-bian/wei-shen-me-yao-you-zhe-yang-de-gai-nian.md)
+      * [协变](ji-ben-nei-rong/lan-xue/lei-xing-an-quan/xie-bian-vs-ni-bian/xie-bian/README.md)
+        * [疑惑](ji-ben-nei-rong/lan-xue/lei-xing-an-quan/xie-bian-vs-ni-bian/xie-bian/yi-huo.md)
+      * [逆变](ji-ben-nei-rong/lan-xue/lei-xing-an-quan/xie-bian-vs-ni-bian/ni-bian.md)
+      * [应用场景](ji-ben-nei-rong/lan-xue/lei-xing-an-quan/xie-bian-vs-ni-bian/ying-yong-chang-jing/README.md)
+        * [OC](ji-ben-nei-rong/lan-xue/lei-xing-an-quan/xie-bian-vs-ni-bian/ying-yong-chang-jing/oc.md)
   * [Trampoline](ji-ben-nei-rong/lan-xue/trampoline.md)
 
 ## 杂点
