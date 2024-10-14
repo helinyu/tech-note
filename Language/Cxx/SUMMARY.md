@@ -221,6 +221,8 @@
     * [可变](objective-c/ju-he-shu-ju-jie-gou/ji-he-set/ke-bian.md)
   * [其他结构](objective-c/ju-he-shu-ju-jie-gou/qi-ta-jie-gou.md)
   * [类](objective-c/ju-he-shu-ju-jie-gou/lei.md)
+* [其他](objective-c/qi-ta/README.md)
+  * [\_\_covariant协变](objective-c/qi-ta/covariant-xie-bian.md)
 
 ## 杂点
 
