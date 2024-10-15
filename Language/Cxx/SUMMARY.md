@@ -97,6 +97,9 @@
     * [getenv和setenv](c/qi-ta/huan-jing-bian-liang/getenv-he-setenv/README.md)
       * [Windows](c/qi-ta/huan-jing-bian-liang/getenv-he-setenv/windows.md)
     * [隐式文件.env](c/qi-ta/huan-jing-bian-liang/yin-shi-wen-jian-.env.md)
+  * [onExit概念](c/qi-ta/onexit-gai-nian/README.md)
+    * [C语言中onExit的定义](c/qi-ta/onexit-gai-nian/c-yu-yan-zhong-onexit-de-ding-yi.md)
+    * [为什么要有onExit这样的东西？](c/qi-ta/onexit-gai-nian/wei-shen-me-yao-you-onexit-zhe-yang-de-dong-xi.md)
 
 ## C++
 
@@ -228,6 +231,9 @@
 * [其他](objective-c/qi-ta/README.md)
   * [\_\_covariant协变](objective-c/qi-ta/covariant-xie-bian.md)
   * [OC中泛型继承以及协议](objective-c/qi-ta/oc-zhong-fan-xing-ji-cheng-yi-ji-xie-yi.md)
+  * [onExit概念](objective-c/qi-ta/onexit-gai-nian/README.md)
+    * [rac\_keywordify](objective-c/qi-ta/onexit-gai-nian/rac\_keywordify.md)
+    * [OC中有了ARC，为什么需要@onExit？](objective-c/qi-ta/onexit-gai-nian/oc-zhong-you-le-arc-wei-shen-me-xu-yao-onexit.md)
 
 ## 杂点
 
