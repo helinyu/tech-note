@@ -58,6 +58,8 @@
         * [RACCommand](di-san-fang-ku/rac-ku/reactiveobjc/guan-jian-gai-nian-lie-biao/raccommand.md)
         * [RACSubscriber](di-san-fang-ku/rac-ku/reactiveobjc/guan-jian-gai-nian-lie-biao/racsubscriber.md)
         * [RACTuple](di-san-fang-ku/rac-ku/reactiveobjc/guan-jian-gai-nian-lie-biao/ractuple.md)
+        * [RACSequence有关类](di-san-fang-ku/rac-ku/reactiveobjc/guan-jian-gai-nian-lie-biao/racsequence-you-guan-lei/README.md)
+          * [应用场景](di-san-fang-ku/rac-ku/reactiveobjc/guan-jian-gai-nian-lie-biao/racsequence-you-guan-lei/ying-yong-chang-jing.md)
         * [宏](di-san-fang-ku/rac-ku/reactiveobjc/guan-jian-gai-nian-lie-biao/hong.md)
         * [疑问](di-san-fang-ku/rac-ku/reactiveobjc/guan-jian-gai-nian-lie-biao/yi-wen/README.md)
           * [RACCommand vs RACSignal](di-san-fang-ku/rac-ku/reactiveobjc/guan-jian-gai-nian-lie-biao/yi-wen/raccommand-vs-racsignal.md)
