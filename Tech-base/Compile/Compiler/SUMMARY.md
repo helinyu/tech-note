@@ -25,3 +25,5 @@
       * [何为对象初始化，懒加载不是在首次调用的时候才初始化的么？这个不同样是RAII么？](zi-yuan-guan-li-ce-le-yi-dao-techthinking/raii/fei-raii/he-wei-dui-xiang-chu-shi-hua-lan-jia-zai-bu-shi-zai-shou-ci-diao-yong-de-shi-hou-cai-chu-shi-hua-de.md)
     * [其他](zi-yuan-guan-li-ce-le-yi-dao-techthinking/raii/qi-ta/README.md)
       * [懒加载 vs RAII](zi-yuan-guan-li-ce-le-yi-dao-techthinking/raii/qi-ta/lan-jia-zai-vs-raii.md)
+* [知识点](zhi-shi-dian/README.md)
+  * [常量折叠/传播](zhi-shi-dian/chang-liang-zhe-die-chuan-bo.md)
