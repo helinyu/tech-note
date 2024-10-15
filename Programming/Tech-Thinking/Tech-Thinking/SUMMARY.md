@@ -97,3 +97,8 @@
 ## 暂时
 
 * [ReactiveSwift和RxSwift](zan-shi/reactiveswift-he-rxswift.md)
+* [判断条件实现的效率](zan-shi/pan-duan-tiao-jian-shi-xian-de-xiao-l/README.md)
+  * [固定且连续的条件值，switch比字典更高效](zan-shi/pan-duan-tiao-jian-shi-xian-de-xiao-l/gu-ding-qie-lian-xu-de-tiao-jian-zhi-switch-bi-zi-dian-geng-gao-xiao.md)
+  * [跳转表](zan-shi/pan-duan-tiao-jian-shi-xian-de-xiao-l/tiao-zhuan-biao.md)
+  * [编译器优化switch](zan-shi/pan-duan-tiao-jian-shi-xian-de-xiao-l/bian-yi-qi-you-hua-switch.md)
+  * [编译器对if..else的优化](zan-shi/pan-duan-tiao-jian-shi-xian-de-xiao-l/bian-yi-qi-dui-if..else-de-you-hua.md)
