@@ -60,10 +60,12 @@
 * [库/工具](ku-gong-ju/README.md)
   * [标准/官方](ku-gong-ju/biao-zhun-guan-fang.md)
 * [代码组织](dai-ma-zu-zhi.md)
-* [懒学](lan-xue/README.md)
-  * [符号](lan-xue/fu-hao/README.md)
-    * [等于不等](lan-xue/fu-hao/deng-yu-bu-deng.md)
-    * [数学常用符号](lan-xue/fu-hao/shu-xue-chang-yong-fu-hao.md)
+* [其他](qi-ta/README.md)
+  * [SwiftModule](qi-ta/swiftmodule/README.md)
+    * [内容](qi-ta/swiftmodule/nei-rong.md)
+  * [符号](qi-ta/fu-hao/README.md)
+    * [等于不等](qi-ta/fu-hao/deng-yu-bu-deng.md)
+    * [数学常用符号](qi-ta/fu-hao/shu-xue-chang-yong-fu-hao.md)
 
 ## 疑问
 
