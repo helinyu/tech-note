@@ -1,11 +1,25 @@
 # Table of contents
 
+## 编译过程
+
 * [编译器基本过程](README.md)
-* [词法](ci-fa/README.md)
-  * [词法分析器和(语法分析)解析器](ci-fa/ci-fa-fen-xi-qi-he-yu-fa-fen-xi-jie-xi-qi.md)
-* [Page 1](page-1.md)
-* [Page](page.md)
-* [语法](yu-fa.md)
+  * [中间代码在汇编代码之前](bian-yi-guo-cheng/bian-yi-qi-ji-ben-guo-cheng/zhong-jian-dai-ma-zai-hui-bian-dai-ma-zhi-qian.md)
+* [词法](bian-yi-guo-cheng/ci-fa/README.md)
+  * [词法分析器和(语法分析)解析器](bian-yi-guo-cheng/ci-fa/ci-fa-fen-xi-qi-he-yu-fa-fen-xi-jie-xi-qi.md)
+* [语法](bian-yi-guo-cheng/yu-fa.md)
+* [语义分析](bian-yi-guo-cheng/yu-yi-fen-xi.md)
+* [中间代码](bian-yi-guo-cheng/zhong-jian-dai-ma/README.md)
+  * [Page 1](bian-yi-guo-cheng/zhong-jian-dai-ma/page-1.md)
+  * [知识点](bian-yi-guo-cheng/zhong-jian-dai-ma/zhi-shi-dian/README.md)
+    * [码(bytecode/bitcode)](bian-yi-guo-cheng/zhong-jian-dai-ma/zhi-shi-dian/ma-bytecodebitcode/README.md)
+      * [bytecode](bian-yi-guo-cheng/zhong-jian-dai-ma/zhi-shi-dian/ma-bytecodebitcode/bytecode.md)
+      * [最终的中间代码可能是bytecode或者bitcode](bian-yi-guo-cheng/zhong-jian-dai-ma/zhi-shi-dian/ma-bytecodebitcode/zui-zhong-de-zhong-jian-dai-ma-ke-neng-shi-bytecode-huo-zhe-bitcode.md)
+      * [bytecode/bitcode在汇编之前](bian-yi-guo-cheng/zhong-jian-dai-ma/zhi-shi-dian/ma-bytecodebitcode/bytecodebitcode-zai-hui-bian-zhi-qian.md)
+      * [为什么不让bitecode在虚拟机上运行，而bytecode编译优化运行呢？](bian-yi-guo-cheng/zhong-jian-dai-ma/zhi-shi-dian/ma-bytecodebitcode/wei-shen-me-bu-rang-bitecode-zai-xu-ni-ji-shang-yun-xing-er-bytecode-bian-yi-you-hua-yun-xing-ne.md)
+* [汇编](bian-yi-guo-cheng/hui-bian.md)
+* [机器码](bian-yi-guo-cheng/ji-qi-ma.md)
+* [链接](bian-yi-guo-cheng/lian-jie.md)
+* [可执行文件](bian-yi-guo-cheng/ke-zhi-xing-wen-jian.md)
 
 ## 未定整合
 
