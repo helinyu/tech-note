@@ -76,8 +76,6 @@
 
 ## 疑问
 
-* [OC中实现的模块化](yi-wen/oc-zhong-shi-xian-de-mo-kuai-hua/README.md)
-  * [详细内容](yi-wen/oc-zhong-shi-xian-de-mo-kuai-hua/xiang-xi-nei-rong.md)
 * [模块概念历史](yi-wen/mo-kuai-gai-nian-li-shi.md)
 * [swift编程语言去掉字符类型是否可以？](yi-wen/swift-bian-cheng-yu-yan-qu-diao-zi-fu-lei-xing-shi-fou-ke-yi.md)
 * [let c = "A" ， 为什么不推断为character类型？](yi-wen/letc-a-wei-shen-me-bu-tui-duan-wei-character-lei-xing.md)
