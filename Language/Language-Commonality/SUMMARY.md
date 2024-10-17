@@ -77,9 +77,9 @@
 
 ## 杂点
 
-* [动态语言 vs 静态语言](za-dian/dong-tai-yu-yan-vs-jing-tai-yu-yan.md)
-* [编译型 vs 解释型](za-dian/bian-yi-xing-vs-jie-shi-xing.md)
-* [划分语言的角度](za-dian/hua-fen-yu-yan-de-jiao-du.md)
+* [语言划分](za-dian/yu-yan-hua-fen/README.md)
+  * [动态语言 vs 静态语言](za-dian/yu-yan-hua-fen/dong-tai-yu-yan-vs-jing-tai-yu-yan.md)
+  * [编译型 vs 解释型](za-dian/yu-yan-hua-fen/bian-yi-xing-vs-jie-shi-xing.md)
 * [声明和初始化](gai-nian-qu-fen/sheng-ming-he-chu-shi-hua.md)
 * [程序编码为什么需要UTF/ASCII等编码？](gai-nian-qu-fen/cheng-xu-bian-ma-wei-shen-me-xu-yao-utfascii-deng-bian-ma.md)
 
