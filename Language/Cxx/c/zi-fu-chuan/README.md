@@ -4,7 +4,7 @@
 
 
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:purple;">Q: 为什么使用字符数组表示字符串？</mark>
 

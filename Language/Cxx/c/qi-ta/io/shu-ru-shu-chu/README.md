@@ -12,7 +12,7 @@ C语言的标准I/O函数库提供了一组用于输入和输出操作的函数�
 
 
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 常见的标准I/O函数
 

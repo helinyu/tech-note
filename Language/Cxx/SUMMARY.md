@@ -240,6 +240,8 @@
     * [rac\_keywordify](objective-c/qi-ta/onexit-gai-nian/rac\_keywordify.md)
     * [OC中有了ARC，为什么需要@onExit？](objective-c/qi-ta/onexit-gai-nian/oc-zhong-you-le-arc-wei-shen-me-xu-yao-onexit.md)
   * [OC中的模块化](objective-c/qi-ta/oc-zhong-de-mo-kuai-hua/README.md)
+    * [module.modulemap](objective-c/qi-ta/oc-zhong-de-mo-kuai-hua/module.modulemap.md)
+    * [pod+module 管理代码](objective-c/qi-ta/oc-zhong-de-mo-kuai-hua/pod+module-guan-li-dai-ma.md)
     * [详细内容](objective-c/qi-ta/oc-zhong-de-mo-kuai-hua/xiang-xi-nei-rong.md)
 
 ## 杂点
