@@ -4,7 +4,7 @@
 * [iOS](ios.md)
 * [Mac](mac.md)
 * [SwiftUI](swiftui/README.md)
-  * [Page](swiftui/page.md)
+  * [SwiftUI+Combine架构](swiftui/swiftui+combine-jia-gou.md)
   * [SwiftUI vs UIKit](swiftui/swiftui-vs-uikit.md)
   * [架构变化带来的思考](swiftui/jia-gou-bian-hua-dai-lai-de-si-kao.md)
 * [工具](gong-ju/README.md)
