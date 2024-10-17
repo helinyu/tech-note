@@ -100,6 +100,8 @@
   * [onExit概念](c/qi-ta/onexit-gai-nian/README.md)
     * [C语言中onExit的定义](c/qi-ta/onexit-gai-nian/c-yu-yan-zhong-onexit-de-ding-yi.md)
     * [为什么要有onExit这样的东西？](c/qi-ta/onexit-gai-nian/wei-shen-me-yao-you-onexit-zhe-yang-de-dong-xi.md)
+  * [Module](c/qi-ta/module/README.md)
+    * [ModuleMap](c/qi-ta/module/modulemap.md)
 
 ## C++
 
