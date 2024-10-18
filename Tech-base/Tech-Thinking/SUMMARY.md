@@ -116,7 +116,11 @@
   * [跳转表](zan-shi/pan-duan-tiao-jian-shi-xian-de-xiao-l/tiao-zhuan-biao.md)
   * [编译器优化switch](zan-shi/pan-duan-tiao-jian-shi-xian-de-xiao-l/bian-yi-qi-you-hua-switch.md)
   * [编译器对if..else的优化](zan-shi/pan-duan-tiao-jian-shi-xian-de-xiao-l/bian-yi-qi-dui-if..else-de-you-hua.md)
+* [Page 2](zan-shi/page-2.md)
 
 ***
 
 * [读源码的建议步骤](du-yuan-ma-de-jian-yi-bu-zhou.md)
+* [开源知识点](kai-yuan-zhi-shi-dian/README.md)
+  * [Copyright 和 Copyleft](kai-yuan-zhi-shi-dian/copyright-he-copyleft.md)
+  * [Page 3](kai-yuan-zhi-shi-dian/page-3.md)
