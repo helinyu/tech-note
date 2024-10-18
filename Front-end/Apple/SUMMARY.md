@@ -11,6 +11,8 @@
   * [tuist](gong-ju/tuist.md)
   * [Xcode](gong-ju/xcode/README.md)
     * [项目基本配置](gong-ju/xcode/xiang-mu-ji-ben-pei-zhi.md)
+  * [cocoapods](gong-ju/cocoapods/README.md)
+    * [abstract\_target](gong-ju/cocoapods/abstract\_target.md)
 * [第三方库](di-san-fang-ku/README.md)
   * [RAC库](di-san-fang-ku/rac-ku/README.md)
     * [ReactiveObjc](di-san-fang-ku/rac-ku/reactiveobjc/README.md)
