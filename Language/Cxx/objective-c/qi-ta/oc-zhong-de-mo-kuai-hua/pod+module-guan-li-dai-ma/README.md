@@ -2,7 +2,7 @@
 
 ### 1、组织代码文件
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### 2、podspec 文件和以前一样
 
@@ -39,7 +39,7 @@ pod install
 
 ### 5、导入这个模块使用
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
