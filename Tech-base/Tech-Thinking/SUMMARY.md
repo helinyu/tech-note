@@ -123,4 +123,5 @@
 * [读源码的建议步骤](du-yuan-ma-de-jian-yi-bu-zhou.md)
 * [开源知识点](kai-yuan-zhi-shi-dian/README.md)
   * [Copyright 和 Copyleft](kai-yuan-zhi-shi-dian/copyright-he-copyleft.md)
-  * [Page 3](kai-yuan-zhi-shi-dian/page-3.md)
+  * [版权和开源协议](kai-yuan-zhi-shi-dian/ban-quan-he-kai-yuan-xie-yi/README.md)
+    * [常见的开源协议](kai-yuan-zhi-shi-dian/ban-quan-he-kai-yuan-xie-yi/chang-jian-de-kai-yuan-xie-yi.md)
