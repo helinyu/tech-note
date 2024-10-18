@@ -57,3 +57,7 @@
       * [懒加载 vs RAII](zi-yuan-guan-li-ce-le-yi-dao-techthinking/raii/qi-ta/lan-jia-zai-vs-raii.md)
 * [知识点](zhi-shi-dian/README.md)
   * [常量折叠/传播](zhi-shi-dian/chang-liang-zhe-die-chuan-bo.md)
+* [Tools](tools/README.md)
+  * [构建系统生成工具 和 构建工具](tools/gou-jian-xi-tong-sheng-cheng-gong-ju-he-gou-jian-gong-ju.md)
+  * [构建系统生成工具](tools/gou-jian-xi-tong-sheng-cheng-gong-ju.md)
+  * [构建工具](tools/gou-jian-gong-ju.md)
