@@ -14,6 +14,4 @@
 
 [查看文档](https://app.gitbook.com/s/ddm4swBYvT7bFuljA2z2/qi-ta/swiftmodule)
 
-具体的例子[^1]
-
-[^1]: 
+[具体例子](https://github.com/hly-code-source/exmaples/tree/main/swift/TestSwiftExmaple)
