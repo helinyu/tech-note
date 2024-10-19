@@ -15,6 +15,7 @@
   * [base](apple/base.md)
   * [iOS](apple/ios.md)
   * [Mac](apple/mac.md)
+  * [Library](apple/library.md)
 * [Web](web/README.md)
   * [React](web/react.md)
   * [Vue](web/vue.md)
