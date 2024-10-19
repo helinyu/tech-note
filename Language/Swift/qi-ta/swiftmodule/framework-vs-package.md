@@ -20,7 +20,7 @@
 4. **结构**：
    * 包含源代码、测试文件和 `Package.swift` 文件。
    * 支持模块和目标的定义。
-5. **依赖管理**：通过 SPM 进行自动化依赖管理，支持语义版本控制（SemVer）。
+5. **依赖管理**：通过 SPM 进行自动化依赖管理，[支持语义版本控制（SemVer）](https://app.gitbook.com/s/mM0P7BM5rjx8MgfLA3NQ/kai-yuan-zhi-shi-dian/semver)。
 
 #### 关系
 
