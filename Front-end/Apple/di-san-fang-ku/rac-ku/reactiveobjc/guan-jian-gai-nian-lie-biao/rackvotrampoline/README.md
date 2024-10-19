@@ -1,6 +1,6 @@
 # RACKVOTrampoline
 
-<figure><img src="../../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 1. **初始化 (`initWithTarget:observer:keyPath:options:block:`)**：
    * 检查传入的键路径和回调块是否为非空。
