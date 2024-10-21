@@ -14,7 +14,7 @@ i = 320 \* 200 \*32&#x20;
 
 constant propagation，常量传播，编译器优化技术之一，可以<mark style="color:red;">**在一段代码中，将表达式中的常量替换为相关表达式或字面量**</mark>，再使用常量折叠技术来简化代码。
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 
 
