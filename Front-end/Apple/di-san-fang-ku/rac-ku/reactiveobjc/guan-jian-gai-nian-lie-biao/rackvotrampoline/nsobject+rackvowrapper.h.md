@@ -23,4 +23,4 @@
 5. **处理弱引用属性的通知**：处理弱引用属性的自动通知，确保在观察者或被观察对象释放时自动移除观察。
 6. **返回 RACDisposable 对象**：返回 `RACDisposable` 对象，可以用来停止观察。
 
-<figure><img src="../../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
