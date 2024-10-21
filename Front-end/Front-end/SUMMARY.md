@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Page](README.md)
+* [布局](README.md)
 * [Tools](tools/README.md)
   * [mise](tools/mise.md)
 * [模拟器](mo-ni-qi/README.md)
