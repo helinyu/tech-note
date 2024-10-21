@@ -58,6 +58,9 @@
 * [流 Stream](liu-stream/README.md)
   * [抽象分类](liu-stream/chou-xiang-fen-lei.md)
   * [特性](liu-stream/te-xing.md)
+* [设计模式](she-ji-mo-shi/README.md)
+  * [疑问](she-ji-mo-shi/yi-wen/README.md)
+    * [观察者模式和订阅者模式是不是同一个东西？](she-ji-mo-shi/yi-wen/guan-cha-zhe-mo-shi-he-ding-yue-zhe-mo-shi-shi-bu-shi-tong-yi-ge-dong-xi.md)
 * [软件架构模式](ruan-jian-jia-gou-mo-shi/README.md)
   * [耦合度](ruan-jian-jia-gou-mo-shi/ou-he-du/README.md)
     * [概念](ruan-jian-jia-gou-mo-shi/ou-he-du/gai-nian.md)
@@ -104,9 +107,14 @@
         * [MVC、MVP、MVVM、MVI](ruan-jian-jia-gou-mo-shi/fen-ceng-jia-gou/mv-x/bi-jiao/mvc-mvp-mvvm-mvi.md)
         * [MVVM vs MVI](ruan-jian-jia-gou-mo-shi/fen-ceng-jia-gou/mv-x/bi-jiao/mvvm-vs-mvi/README.md)
           * [两者的单向数据流](ruan-jian-jia-gou-mo-shi/fen-ceng-jia-gou/mv-x/bi-jiao/mvvm-vs-mvi/liang-zhe-de-dan-xiang-shu-ju-liu.md)
-* [设计模式](she-ji-mo-shi/README.md)
-  * [疑问](she-ji-mo-shi/yi-wen/README.md)
-    * [观察者模式和订阅者模式是不是同一个东西？](she-ji-mo-shi/yi-wen/guan-cha-zhe-mo-shi-he-ding-yue-zhe-mo-shi-shi-bu-shi-tong-yi-ge-dong-xi.md)
+* [模块](mo-kuai/README.md)
+  * [模块间关系](mo-kuai/mo-kuai-jian-guan-xi.md)
+  * [解决模块一来混乱](mo-kuai/jie-jue-mo-kuai-yi-lai-hun-luan.md)
+  * [常见的模块依赖问题](mo-kuai/chang-jian-de-mo-kuai-yi-lai-wen-ti/README.md)
+    * [依赖循环](mo-kuai/chang-jian-de-mo-kuai-yi-lai-wen-ti/yi-lai-xun-huan/README.md)
+      * [依赖注入](mo-kuai/chang-jian-de-mo-kuai-yi-lai-wen-ti/yi-lai-xun-huan/yi-lai-zhu-ru.md)
+  * [面试题中关于模块的依赖，怎么处理？](mo-kuai/mian-shi-ti-zhong-guan-yu-mo-kuai-de-yi-lai-zen-me-chu-li.md)
+* [———————————————————](undefined.md)
 
 ## 暂时
 
@@ -120,7 +128,7 @@
 
 ***
 
-* [————](undefined.md)
+* [————](undefined-1.md)
 * [读源码的建议步骤](du-yuan-ma-de-jian-yi-bu-zhou.md)
 * [开源知识点](kai-yuan-zhi-shi-dian/README.md)
   * [Copyright 和 Copyleft](kai-yuan-zhi-shi-dian/copyright-he-copyleft.md)
