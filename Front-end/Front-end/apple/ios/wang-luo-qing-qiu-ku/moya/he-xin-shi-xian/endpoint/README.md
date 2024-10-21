@@ -1,6 +1,6 @@
 # Endpoint
 
-<figure><img src="../../../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **A**：开始转换`Endpoint`为`URLRequest`。
 * **B**：根据任务类型进行不同的处理。
