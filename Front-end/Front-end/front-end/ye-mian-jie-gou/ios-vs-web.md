@@ -1,4 +1,4 @@
-# 页面的属性结构（iOS vs web）
+# iOS vs Web
 
 在 Web 开发中，DOM (Document Object Model) 是页面的基础，它以树形结构的形式呈现 HTML 元素之间的父子关系。每个 HTML 标签、属性、文本内容都在这棵 DOM 树中作为一个节点。
 
