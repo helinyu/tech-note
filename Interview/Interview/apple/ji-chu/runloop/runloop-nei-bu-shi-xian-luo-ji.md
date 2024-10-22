@@ -77,7 +77,7 @@ while (runLoopIsRunning) {
 
 
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption><p><br></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9) (1).png" alt=""><figcaption><p><br></p></figcaption></figure>
 
 1. **Runloop 启动**：
    * Runloop 通常在主线程或子线程中启动，通过调用 `CFRunLoopRun` 或 `NSRunLoop run` 方法。
