@@ -1,6 +1,10 @@
 # Table of contents
 
-* [Apple](README.md)
+* [Front-end](README.md)
+  * [事件](front-end/shi-jian/README.md)
+    * [iOS vs web](front-end/shi-jian/ios-vs-web/README.md)
+      * [事件传递与响应](front-end/shi-jian/ios-vs-web/shi-jian-chuan-di-yu-xiang-ying.md)
+* [Apple](<README (1).md>)
   * [基础](apple/ji-chu/README.md)
     * [Objective-c](apple/ji-chu/objective-c/README.md)
       * [OC基础](apple/ji-chu/objective-c/oc-ji-chu/README.md)
