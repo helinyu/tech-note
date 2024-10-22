@@ -84,3 +84,5 @@
 * [Web](web/README.md)
   * [js](web/js.md)
   * [Vue](web/vue.md)
+* [架构](jia-gou.md)
+* [设计模式](she-ji-mo-shi.md)
