@@ -86,6 +86,7 @@
   * [Mac](apple/mac/README.md)
     * [AppKit](apple/mac/appkit/README.md)
       * [NSWindow](apple/mac/appkit/nswindow/README.md)
+        * [NSWindow.CollectionBehavior](apple/mac/appkit/nswindow/nswindow.collectionbehavior.md)
         * [NSWindow.Level](apple/mac/appkit/nswindow/nswindow.level.md)
     * [MacOS工具](apple/mac/macos-gong-ju/README.md)
       * [Create-dmg](apple/mac/macos-gong-ju/create-dmg.md)
