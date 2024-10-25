@@ -1,0 +1,2 @@
+# NSStandardKeyBindingResponding 协议
+
