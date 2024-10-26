@@ -89,6 +89,7 @@
         * [ActivationPolicy](apple/mac/appkit/nsapplication/activationpolicy/README.md)
           * [示例（不显示窗口）](apple/mac/appkit/nsapplication/activationpolicy/shi-li-bu-xian-shi-chuang-kou.md)
       * [NSWindow](apple/mac/appkit/nswindow/README.md)
+        * [NSWindow.StyleMask](apple/mac/appkit/nswindow/nswindow.stylemask.md)
         * [NSWindowController](apple/mac/appkit/nswindow/nswindowcontroller/README.md)
           * [isReleasedWhenClosed](apple/mac/appkit/nswindow/nswindowcontroller/isreleasedwhenclosed.md)
         * [NSWindow.CollectionBehavior](apple/mac/appkit/nswindow/nswindow.collectionbehavior.md)
