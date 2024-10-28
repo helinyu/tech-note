@@ -114,6 +114,9 @@
     * [依赖循环](mo-kuai/chang-jian-de-mo-kuai-yi-lai-wen-ti/yi-lai-xun-huan/README.md)
       * [依赖注入](mo-kuai/chang-jian-de-mo-kuai-yi-lai-wen-ti/yi-lai-xun-huan/yi-lai-zhu-ru.md)
   * [面试题中关于模块的依赖，怎么处理？](mo-kuai/mian-shi-ti-zhong-guan-yu-mo-kuai-de-yi-lai-zen-me-chu-li.md)
+* [编程核心概念](bian-cheng-he-xin-gai-nian/README.md)
+  * [Reducer](bian-cheng-he-xin-gai-nian/reducer.md)
+  * [副作用](bian-cheng-he-xin-gai-nian/fu-zuo-yong.md)
 * [———————————————————](undefined.md)
 
 ## 暂时
