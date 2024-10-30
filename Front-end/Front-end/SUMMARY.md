@@ -201,6 +201,7 @@
   * [工具](apple/gong-ju/README.md)
     * [Xcode](apple/gong-ju/xcode/README.md)
       * [本地服务的网络请求设置](apple/gong-ju/xcode/ben-di-fu-wu-de-wang-luo-qing-qiu-she-zhi.md)
+      * [info.plist文件变迁](apple/gong-ju/xcode/info.plist-wen-jian-bian-qian.md)
 * [Web](web/README.md)
   * [UI框架](web/ui-kuang-jia/README.md)
     * [原始开发](web/ui-kuang-jia/yuan-shi-kai-fa/README.md)
