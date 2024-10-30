@@ -214,6 +214,7 @@
       * [cocoapods](apple/gong-ju/ku-gong-ju/cocoapods.md)
         * [abstract\_target](apple/gong-ju/ku-gong-ju/cocoapods/abstract\_target.md)
       * [carthage](apple/gong-ju/ku-gong-ju/carthage.md)
+    * [Tuist](apple/gong-ju/tuist.md)
 * [Web](web/README.md)
   * [UI框架](web/ui-kuang-jia/README.md)
     * [原始开发](web/ui-kuang-jia/yuan-shi-kai-fa/README.md)
