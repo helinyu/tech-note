@@ -6,6 +6,9 @@
   * [1、Transformers架构](npl-coursenpl-jiao-cheng/1transformers-jia-gou.md)
   * [2、Gradio 构建并且分享模型](npl-coursenpl-jiao-cheng/2gradio-gou-jian-bing-qie-fen-xiang-mo-xing.md)
 * [各种库的教程](ge-zhong-ku-de-jiao-cheng.md)
+* [Jupyter notebook](jupyter-notebook/README.md)
+  * [安装](jupyter-notebook/an-zhuang/README.md)
+    * [应用](jupyter-notebook/an-zhuang/ying-yong.md)
 
 ## 大模型的概览
 
