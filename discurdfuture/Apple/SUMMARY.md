@@ -1,9 +1,6 @@
 # Table of contents
 
-* [README](README.md)
-* [iOS](ios.md)
-* [Mac](mac.md)
-* [SwiftUI](swiftui/README.md)
+* [SwiftUI](README.md)
   * [基本使用](swiftui/ji-ben-shi-yong/README.md)
     * [导航](swiftui/ji-ben-shi-yong/dao-hang/README.md)
       * [跳转](swiftui/ji-ben-shi-yong/dao-hang/tiao-zhuan.md)

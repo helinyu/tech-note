@@ -1,6 +1,0 @@
----
-description: Mac
----
-
-# Mac
-
