@@ -12,8 +12,6 @@
   * [架构变化带来的思考](swiftui/jia-gou-bian-hua-dai-lai-de-si-kao.md)
 * [工具](gong-ju/README.md)
   * [tuist](gong-ju/tuist.md)
-  * [Xcode](gong-ju/xcode/README.md)
-    * [项目基本配置](gong-ju/xcode/xiang-mu-ji-ben-pei-zhi.md)
   * [cocoapods](gong-ju/cocoapods/README.md)
     * [abstract\_target](gong-ju/cocoapods/abstract\_target.md)
   * [Swift packager](gong-ju/swift-packager/README.md)
