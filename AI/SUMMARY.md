@@ -1,6 +1,8 @@
 # Table of contents
 
 * [AI学习路线](README.md)
+  * [机器学习](ai-xue-xi-lu-xian/ji-qi-xue-xi/README.md)
+    * [大模型](ai-xue-xi-lu-xian/ji-qi-xue-xi/da-mo-xing.md)
 * [1、环境的准备](1-huan-jing-de-zhun-bei.md)
 * [NPL Course(NPL教程)](npl-coursenpl-jiao-cheng/README.md)
   * [1、Transformers架构](npl-coursenpl-jiao-cheng/1transformers-jia-gou.md)
