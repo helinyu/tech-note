@@ -10,8 +10,6 @@
 6. **DatePicker**：选择日期和时间。
 7. **Stepper**：用于增减数值。
 
-你可以将这些控件组合在 `Form` 中，如下例所示：
-
 ```swift
 Form {
     Section(header: Text("Account Info")) {
@@ -29,5 +27,3 @@ Form {
     }
 }
 ```
-
-这样可以清晰地组织输入项，提升用户体验。你有特定的控件想深入了解吗？
