@@ -239,6 +239,7 @@
     * [Page 2](web/luo-ji-chu-li-ku/page-2.md)
   * [Library](web/library/README.md)
     * [Monorepo](web/library/monorepo/README.md)
+      * [竞品](web/library/monorepo/jing-pin.md)
       * [主要应用](web/library/monorepo/zhu-yao-ying-yong.md)
       * [工具](web/library/monorepo/gong-ju/README.md)
         * [Nx](web/library/monorepo/gong-ju/nx.md)
