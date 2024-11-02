@@ -4,25 +4,25 @@
 
 在网页中主要负责<mark style="color:red;">**数据采集功能**</mark>，HTML中\<form>标签就是用来采集数据的，并且通过form的操作，把采集到的数据提交到服务器进行处理。
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### 1.2 表单的组成部分
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 1.3 \<form>标签属性
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 ### 1.4 表单的同时提交以及缺点
 
