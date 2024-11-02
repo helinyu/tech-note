@@ -173,6 +173,7 @@
           * [v-model在SwiftUI中的对应](apple/library/swiftui/shu-xing-bao-zhuang-qi-xiu-shi-qi/zong-jie-xing/vmodel-zai-swiftui-zhong-de-dui-ying.md)
       * [UI](apple/library/swiftui/ui/README.md)
         * [基础组件](apple/library/swiftui/ui/ji-chu-zu-jian/README.md)
+          * [DisclosureGroup](apple/library/swiftui/ui/ji-chu-zu-jian/disclosuregroup.md)
           * [Form](apple/library/swiftui/ui/ji-chu-zu-jian/form/README.md)
             * [示例](apple/library/swiftui/ui/ji-chu-zu-jian/form/shi-li.md)
             * [可包含控件](apple/library/swiftui/ui/ji-chu-zu-jian/form/ke-bao-han-kong-jian.md)
