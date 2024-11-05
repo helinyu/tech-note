@@ -118,6 +118,11 @@
   * [Reducer](bian-cheng-he-xin-gai-nian/reducer/README.md)
     * [Reducer相关](bian-cheng-he-xin-gai-nian/reducer/reducer-xiang-guan.md)
   * [副作用](bian-cheng-he-xin-gai-nian/fu-zuo-yong.md)
+  * [异步 vs 同步](bian-cheng-he-xin-gai-nian/yi-bu-vs-tong-bu/README.md)
+    * [为什么要划分](bian-cheng-he-xin-gai-nian/yi-bu-vs-tong-bu/wei-shen-me-yao-hua-fen.md)
+    * [划分角度](bian-cheng-he-xin-gai-nian/yi-bu-vs-tong-bu/hua-fen-jiao-du.md)
+    * [async/await](bian-cheng-he-xin-gai-nian/yi-bu-vs-tong-bu/async-await/README.md)
+      * [await等待的异步任务去了哪里执行呢？](bian-cheng-he-xin-gai-nian/yi-bu-vs-tong-bu/async-await/await-deng-dai-de-yi-bu-ren-wu-qu-le-na-li-zhi-xing-ne.md)
 * [———————————————————](undefined.md)
 
 ## 暂时
