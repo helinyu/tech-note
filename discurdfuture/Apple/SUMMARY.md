@@ -1,13 +1,6 @@
 # Table of contents
 
-* [SwiftUI](README.md)
-  * [基本使用](swiftui/ji-ben-shi-yong/README.md)
-    * [导航](swiftui/ji-ben-shi-yong/dao-hang/README.md)
-      * [跳转](swiftui/ji-ben-shi-yong/dao-hang/tiao-zhuan.md)
-  * [SwiftUI+Combine架构](swiftui/swiftui+combine-jia-gou.md)
-  * [SwiftUI vs UIKit](swiftui/swiftui-vs-uikit.md)
-  * [架构变化带来的思考](swiftui/jia-gou-bian-hua-dai-lai-de-si-kao.md)
-* [第三方库](di-san-fang-ku/README.md)
+* [第三方库](README.md)
   * [RAC库](di-san-fang-ku/rac-ku/README.md)
     * [ReactiveObjc](di-san-fang-ku/rac-ku/reactiveobjc/README.md)
       * [如何实现的](di-san-fang-ku/rac-ku/reactiveobjc/ru-he-shi-xian-de.md)
