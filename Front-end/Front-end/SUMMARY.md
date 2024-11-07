@@ -250,6 +250,7 @@
               * [timeout](apple/library/sys/combine/ji-ben-gai-nian/jue-se/cao-zuo-fu/timeout.md)
               * [调试print/handleEvents](apple/library/sys/combine/ji-ben-gai-nian/jue-se/cao-zuo-fu/tiao-shi-printhandleevents.md)
               * [share/muticast](apple/library/sys/combine/ji-ben-gai-nian/jue-se/cao-zuo-fu/share-muticast.md)
+              * [append](apple/library/sys/combine/ji-ben-gai-nian/jue-se/cao-zuo-fu/append.md)
               * [VS](apple/library/sys/combine/ji-ben-gai-nian/jue-se/cao-zuo-fu/vs/README.md)
                 * [san vs reduce](apple/library/sys/combine/ji-ben-gai-nian/jue-se/cao-zuo-fu/vs/san-vs-reduce.md)
                 * [merge、zip、combineLatest 和 switchToLatest](apple/library/sys/combine/ji-ben-gai-nian/jue-se/cao-zuo-fu/vs/mergezipcombinelatest-he-switchtolatest.md)

@@ -23,6 +23,9 @@
 * `tryFilter`: 对发布的值进行条件判断，并捕获错误。 类似map中的trymap
 * [`removeDuplicates`](removeduplicates/): 移除<mark style="color:red;">连续相同</mark>的值。
 * [`ignoreOutput`](ignoreoutput.md): 忽略发布者发出的所有值，仅关心完成或失败事件。
+* **first** / **last**：只获取序列中的第一个或最后一个值。
+* **dropFirst**：跳过序列中的前几个值。
+* **prefix**：限制序列的最大值数量。
 
 
 
@@ -61,4 +64,10 @@
 
 * share: 多个订阅者订阅同一个数据流
 * multicast: 更精细控制的场景
+
+#### 10. **序列运算符(Sequence Operators)**
+
+* **collect**：收集多个值并一次性发送。
+* **allSatisfy**：检查序列中的所有值是否满足条件。
+* **contains**：检查序列中是否包含指定值。
 

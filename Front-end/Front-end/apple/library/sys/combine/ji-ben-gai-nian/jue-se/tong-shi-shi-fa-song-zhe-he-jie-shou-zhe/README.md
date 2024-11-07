@@ -33,5 +33,3 @@ let example = MyPublisherSubscriber()
 ```
 
 在这个例子中，`subject` 作为 `PassthroughSubject` 实现了同时作为发布者和订阅者的角色。它首先订阅自己发布的事件，接着发送了一个字符串事件 `"Hello, Combine!"`。
-
-你是否有具体场景或问题需要帮助？
