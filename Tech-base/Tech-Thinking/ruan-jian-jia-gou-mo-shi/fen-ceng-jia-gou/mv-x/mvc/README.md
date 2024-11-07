@@ -44,11 +44,11 @@ MVC模式通常遵循以下数据流：
 * **`被动模式`**：<mark style="color:orange;">不会主动将它的变化通知给View进行更新</mark>，而是由Controller更新View关于Model的变化； 而且只有Controller可以对Model进行更新；
 * **`主动模式`**：<mark style="color:orange;">Model的修改会通知View更新，利用观察者模式</mark>：View为观察者，Model为被观察者。 在Web端，传统意义上的MVC是主动模式； 而在移动端，对数据变化频繁的场景，可以应用MVC的主动模式。
 
-<figure><img src="../../../../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

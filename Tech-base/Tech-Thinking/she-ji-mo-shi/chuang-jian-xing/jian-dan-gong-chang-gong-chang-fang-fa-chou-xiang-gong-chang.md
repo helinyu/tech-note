@@ -24,6 +24,8 @@
 * **单一工厂类**：所有对象创建逻辑集中在一个工厂类中。
 * **无法扩展**：当需要添加新的产品类时，必须修改工厂类，不符合开放封闭原则（OCP）。
 
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 **示例：**
 
 ```swift
@@ -81,6 +83,10 @@ dog?.speak()  // 输出: Woof
 
 * **封装对象创建**：客户端无需知道具体产品类，通过工厂方法得到产品对象。
 * **可扩展性强**：如果需要新增产品，只需要添加新的具体工厂类，而不需要修改原有代码（符合开放封闭原则）。
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 **示例：**
 
@@ -145,6 +151,8 @@ dog.speak()  // 输出: Woof
 * **产品族**：客户端可以选择创建一系列相关的产品（而非单一产品）。
 * **扩展性强**：若需要添加新的产品族，只需添加新的具体工厂类，符合开放封闭原则。
 * **可维护性强**：工厂类和产品类分离，易于管理和维护。
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 **示例：**
 

@@ -39,7 +39,7 @@ MVP模式的典型数据流如下：
 * **桌面应用程序**：MVP常用于需要频繁更新UI的桌面应用程序，如Java Swing、Windows Forms等。
 * **移动应用程序**：MVP也广泛应用于Android应用程序开发，因为它可以帮助组织代码并提高可测试性。
 
-<figure><img src="../../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">View它持有Presenter作为变量（和MVC的差别）</mark>。
 
