@@ -76,6 +76,8 @@
         * [安装包瘦身](apple/ji-chu/xing-neng-you-hua/you-hua-ni-shi-cong-na-ji-fang-mian-zhuo-shou/an-zhuang-bao-shou-shen.md)
       * [tableView(列表)卡顿的原因可能有哪些？你平时是怎么优化的？](apple/ji-chu/xing-neng-you-hua/tableview-lie-biao-ka-dun-de-yuan-yin-ke-neng-you-na-xie-ni-ping-shi-shi-zen-me-you-hua-de.md)
   * [iOS](apple/ios/README.md)
+    * [性能优化](apple/ios/xing-neng-you-hua/README.md)
+      * [离屏渲染](apple/ios/xing-neng-you-hua/li-ping-xuan-ran.md)
     * [打包](apple/ios/da-bao/README.md)
       * [iOS打包成功了之后，运行在iphone上出现闪退、黑屏的问题](apple/ios/da-bao/ios-da-bao-cheng-gong-le-zhi-hou-yun-xing-zai-iphone-shang-chu-xian-shan-tui-hei-ping-de-wen-ti.md)
     * [WKWebView白屏](apple/ios/wkwebview-bai-ping/README.md)
