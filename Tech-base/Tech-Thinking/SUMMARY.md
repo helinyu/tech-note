@@ -61,6 +61,8 @@
 * [设计模式](she-ji-mo-shi/README.md)
   * [疑问](she-ji-mo-shi/yi-wen/README.md)
     * [观察者模式和订阅者模式是不是同一个东西？](she-ji-mo-shi/yi-wen/guan-cha-zhe-mo-shi-he-ding-yue-zhe-mo-shi-shi-bu-shi-tong-yi-ge-dong-xi.md)
+  * [创建型](she-ji-mo-shi/chuang-jian-xing/README.md)
+    * [简单工厂、工厂方法、抽象工厂](she-ji-mo-shi/chuang-jian-xing/jian-dan-gong-chang-gong-chang-fang-fa-chou-xiang-gong-chang.md)
 * [软件架构模式](ruan-jian-jia-gou-mo-shi/README.md)
   * [耦合度](ruan-jian-jia-gou-mo-shi/ou-he-du/README.md)
     * [概念](ruan-jian-jia-gou-mo-shi/ou-he-du/gai-nian.md)
