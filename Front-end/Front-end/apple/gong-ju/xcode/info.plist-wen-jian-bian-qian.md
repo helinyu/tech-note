@@ -8,9 +8,3 @@
 
 **其实，info.plist并没有被“干掉”，打包时Xcode会自动生成Info.plist文件。包体内最终的Info.plist文件是由工程中的Custom iOS Target Properties、buildSetting 两者者合并生成的。**。
 
-\
-作者：CocoaKier\
-链接：https://juejin.cn/post/7086437261755203591\
-来源：稀土掘金\
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
-
