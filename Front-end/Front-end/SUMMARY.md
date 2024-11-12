@@ -146,7 +146,7 @@
     * [Library](apple/mac/library/README.md)
       * [ScreenCaptureKit](apple/mac/library/screencapturekit/README.md)
         * [SCDisplay vs SCWindow](apple/mac/library/screencapturekit/scdisplay-vs-scwindow.md)
-        * [Page 1](apple/mac/library/screencapturekit/page-1.md)
+        * [SCStreamConfiguration](apple/mac/library/screencapturekit/scstreamconfiguration.md)
   * [Library](apple/library/README.md)
     * [Sys](apple/library/sys/README.md)
       * [UIKit](apple/library/sys/uikit/README.md)
