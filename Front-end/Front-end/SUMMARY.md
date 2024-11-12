@@ -190,6 +190,7 @@
           * [@StateObject](apple/library/sys/swiftui/shu-xing-bao-zhuang-qi-xiu-shi-qi/stateobject/README.md)
             * [@State 和 @StateObject](apple/library/sys/swiftui/shu-xing-bao-zhuang-qi-xiu-shi-qi/stateobject/state-he-stateobject.md)
             * [@StateObject、@ObservedObject、 @EnvironmentObject](apple/library/sys/swiftui/shu-xing-bao-zhuang-qi-xiu-shi-qi/stateobject/stateobject-observedobject-environmentobject.md)
+            * [@stateObject使用问题](apple/library/sys/swiftui/shu-xing-bao-zhuang-qi-xiu-shi-qi/stateobject/stateobject-shi-yong-wen-ti.md)
           * [@SceneStorage](apple/library/sys/swiftui/shu-xing-bao-zhuang-qi-xiu-shi-qi/scenestorage.md)
           * [@ViewBuilder](apple/library/sys/swiftui/shu-xing-bao-zhuang-qi-xiu-shi-qi/viewbuilder.md)
           * [总结性](apple/library/sys/swiftui/shu-xing-bao-zhuang-qi-xiu-shi-qi/zong-jie-xing/README.md)
