@@ -97,6 +97,7 @@
     * [IM](apple/ios/im/README.md)
       * [网易云信](apple/ios/im/wang-yi-yun-xin/README.md)
         * [1v1  vs 普通](apple/ios/im/wang-yi-yun-xin/1v1-vs-pu-tong.md)
+        * [bug出现](apple/ios/im/wang-yi-yun-xin/bug-chu-xian.md)
   * [Mac](apple/mac/README.md)
     * [非技术问题](apple/mac/fei-ji-shu-wen-ti/README.md)
       * [屏幕录制涉及到授权限](apple/mac/fei-ji-shu-wen-ti/ping-mu-lu-zhi-she-ji-dao-shou-quan-xian/README.md)
