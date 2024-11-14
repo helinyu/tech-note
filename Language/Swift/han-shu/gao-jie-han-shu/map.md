@@ -8,7 +8,7 @@ description: 映射
 
 > 对与原始集合里的每个元素，以一个变换后的元素替换之，形成一个新的集合
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 2、flatMap
 
