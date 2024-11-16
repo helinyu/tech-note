@@ -12,9 +12,13 @@
    * 防止发起人以外的其他对象访问备忘录，确保备忘录的封装性。
 3. **Caretaker（管理者）：**
    * 负责保存和恢复备忘录。
-   * 不会修改或操作备忘录的内容，只是保存备忘录的引用。
+   * 不会修改或操作备忘录的内容，只是保存备忘录的引用。![](<../../../.gitbook/assets/image (8).png>)
+
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 ***
+
+
 
 #### 实现示例（以文本编辑器为例）
 
@@ -117,6 +121,10 @@ public class MementoPatternDemo {
    如果需要存储的状态很多，会占用大量内存。
 2. **复杂性增加：**\
    需要引入额外的类（备忘录、管理者）。
+
+
+
+<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
