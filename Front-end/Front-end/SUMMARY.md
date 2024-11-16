@@ -98,6 +98,8 @@
       * [网易云信](apple/ios/im/wang-yi-yun-xin/README.md)
         * [1v1  vs 普通](apple/ios/im/wang-yi-yun-xin/1v1-vs-pu-tong.md)
         * [bug出现](apple/ios/im/wang-yi-yun-xin/bug-chu-xian.md)
+    * [开发遇到的问题](apple/ios/kai-fa-yu-dao-de-wen-ti/README.md)
+      * [创建的证书在钥匙串助理上显示不受信任](apple/ios/kai-fa-yu-dao-de-wen-ti/chuang-jian-de-zheng-shu-zai-yao-shi-chuan-zhu-li-shang-xian-shi-bu-shou-xin-ren.md)
   * [Mac](apple/mac/README.md)
     * [非技术问题](apple/mac/fei-ji-shu-wen-ti/README.md)
       * [屏幕录制涉及到授权限](apple/mac/fei-ji-shu-wen-ti/ping-mu-lu-zhi-she-ji-dao-shou-quan-xian/README.md)
