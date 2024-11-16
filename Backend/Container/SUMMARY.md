@@ -13,3 +13,5 @@
   * [使用](docker/shi-yong/README.md)
     * [基本内容](docker/shi-yong/ji-ben-nei-rong.md)
     * [基本示例](docker/shi-yong/ji-ben-shi-li.md)
+  * [遇到问题](docker/yu-dao-wen-ti/README.md)
+    * [安装myqsl显示问题](docker/yu-dao-wen-ti/an-zhuang-myqsl-xian-shi-wen-ti.md)
