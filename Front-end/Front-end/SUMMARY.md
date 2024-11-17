@@ -228,6 +228,8 @@
             * [NavigationView](apple/library/sys/swiftui/ui/navigationview/README.md)
               * [类比HarmonyOS](apple/library/sys/swiftui/ui/navigationview/lei-bi-harmonyos.md)
               * [NavigationView、NavigationStack 和 NavigationSplitView](apple/library/sys/swiftui/ui/navigationview/navigationviewnavigationstack-he-navigationsplitview.md)
+              * [NavigationView vs NavigationStack](apple/library/sys/swiftui/ui/navigation/navigationview/navigationview-vs-navigationstack.md)
+            * [NavigationStack](apple/library/sys/swiftui/ui/navigation/navigationstack.md)
             * [代码示例](apple/library/sys/swiftui/ui/navigation/dai-ma-shi-li.md)
         * [布局](apple/library/sys/swiftui/bu-ju/README.md)
           * [网格布局](apple/library/sys/swiftui/bu-ju/wang-ge-bu-ju.md)
