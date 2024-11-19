@@ -314,6 +314,8 @@
         * [基本使用](apple/gong-ju/ku-gong-ju/swift-packager/ji-ben-shi-yong/README.md)
           * [将(OC+Swift)库打包成为swift package包](apple/gong-ju/ku-gong-ju/swift-packager/ji-ben-shi-yong/jiang-oc+swift-ku-da-bao-cheng-wei-swift-package-bao.md)
         * [常见设置](apple/gong-ju/ku-gong-ju/swift-packager/chang-jian-she-zhi.md)
+        * [基本内容](apple/gong-ju/ku-gong-ju/swift-packager/ji-ben-nei-rong/README.md)
+          * [示例](apple/gong-ju/ku-gong-ju/swift-packager/ji-ben-nei-rong/shi-li.md)
         * [常见错误](apple/gong-ju/ku-gong-ju/swift-packager/chang-jian-cuo-wu.md)
       * [cocoapods](apple/gong-ju/ku-gong-ju/cocoapods.md)
         * [abstract\_target](apple/gong-ju/ku-gong-ju/cocoapods/abstract\_target.md)
