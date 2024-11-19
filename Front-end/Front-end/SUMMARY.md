@@ -176,6 +176,7 @@
         * [NSItemProvider](apple/library/sys/foundation/nsitemprovider/README.md)
           * [代码示例](apple/library/sys/foundation/nsitemprovider/dai-ma-shi-li.md)
       * [SwiftUI](apple/library/sys/swiftui/README.md)
+        * [SwiftUI更新历史](apple/library/sys/swiftui/swiftui-geng-xin-li-shi.md)
         * [vs UIKit](apple/library/sys/swiftui/vs-uikit/README.md)
           * [架构变化带来的思考](apple/library/sys/swiftui/vs-uikit/jia-gou-bian-hua-dai-lai-de-si-kao.md)
         * [大概掌握分类](apple/library/sys/swiftui/da-gai-zhang-wo-fen-lei/README.md)
