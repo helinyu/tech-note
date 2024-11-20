@@ -60,6 +60,7 @@
       * [不支持iOS15.6的设备](apple/ios/ios-chang-shi/bu-zhi-chi-ios15.6-de-she-bei.md)
       * [开发规范](apple/ios/ios-chang-shi/kai-fa-gui-fan.md)
       * [上架流程和规则](apple/ios/ios-chang-shi/shang-jia-liu-cheng-he-gui-ze.md)
+      * [iOS真机测试步骤](apple/ios/ios-chang-shi/ios-zhen-ji-ce-shi-bu-zhou.md)
     * [事件](apple/ios/shi-jian/README.md)
       * [事件传递和响应](apple/ios/shi-jian/shi-jian-chuan-di-he-xiang-ying/README.md)
         * [核心方法](apple/ios/shi-jian/shi-jian-chuan-di-he-xiang-ying/he-xin-fang-fa.md)
