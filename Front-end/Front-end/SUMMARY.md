@@ -57,6 +57,7 @@
         * [应用场景](apple/base/oc/runtime/ying-yong-chang-jing.md)
   * [iOS](apple/ios/README.md)
     * [iOS常识](apple/ios/ios-chang-shi/README.md)
+      * [不支持iOS14的设备](apple/ios/ios-chang-shi/bu-zhi-chi-ios14-de-she-bei.md)
       * [不支持iOS15.6的设备](apple/ios/ios-chang-shi/bu-zhi-chi-ios15.6-de-she-bei.md)
       * [开发规范](apple/ios/ios-chang-shi/kai-fa-gui-fan.md)
       * [上架流程和规则](apple/ios/ios-chang-shi/shang-jia-liu-cheng-he-gui-ze.md)
