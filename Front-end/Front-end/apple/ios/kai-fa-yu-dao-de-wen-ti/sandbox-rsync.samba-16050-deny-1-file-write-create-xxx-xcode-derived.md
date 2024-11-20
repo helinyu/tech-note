@@ -95,7 +95,7 @@ pod install
 
 
 
-在\解法：
+### 解法：
 
 在xcode中的build settings 中设置enable\_user 收缩，改设置为NO。&#x20;
 
