@@ -48,7 +48,7 @@ print(closure(5))  # 输出：15
 
 #### 3. **`lambda` 函数与闭包的关系**
 
-**`lambda` 函数** 可以作为 **闭包** 使用，因为它同样可以捕获外部作用域中的变量，形成闭包。换句话说，<mark style="color:red;">**`lambda`**</mark><mark style="color:red;">** **</mark><mark style="color:red;">**函数可以是一个匿名的闭包**</mark>。
+**`lambda` 函数** 可以作为 **闭包** 使用，因为它同样可以捕获外部作用域中的变量，形成闭包。换句话说，<mark style="color:red;">**`lambda`**</mark><mark style="color:red;">**&#x20;**</mark><mark style="color:red;">**函数可以是一个匿名的闭包**</mark>。
 
 **示例：`lambda` 函数作为闭包**
 
