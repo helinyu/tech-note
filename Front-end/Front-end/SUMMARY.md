@@ -317,6 +317,8 @@
           * [类比Vue3](apple/library/third/swift-composable-architecture-tca/lei-bi/lei-bi-vue3.md)
   * [工具](apple/gong-ju/README.md)
     * [Xcode](apple/gong-ju/xcode/README.md)
+      * [基础bug](apple/gong-ju/xcode/ji-chu-bug/README.md)
+        * [数组操作bug](apple/gong-ju/xcode/ji-chu-bug/shu-zu-cao-zuo-bug.md)
       * [XCode编辑快捷键](apple/gong-ju/xcode/xcode-bian-ji-kuai-jie-jian.md)
       * [XCode修改支持最低版本](apple/gong-ju/xcode/xcode-xiu-gai-zhi-chi-zui-di-ban-ben.md)
       * [本地服务的网络请求设置](apple/gong-ju/xcode/ben-di-fu-wu-de-wang-luo-qing-qiu-she-zhi.md)
