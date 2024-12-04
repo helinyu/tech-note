@@ -1,4 +1,4 @@
-# swagger-ui
+# Swagger-ui
 
 ## 第一种方式：yaml 文件方式
 
