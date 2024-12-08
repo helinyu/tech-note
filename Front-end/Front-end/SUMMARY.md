@@ -68,6 +68,8 @@
       * [图片加载库添加](android/kai-fa/tu-pian-jia-zai-ku/tu-pian-jia-zai-ku-tian-jia.md)
 * [Apple](apple/README.md)
   * [Base](apple/base/README.md)
+    * [设备](apple/base/she-bei/README.md)
+      * [M4 vs M3](apple/base/she-bei/m4-vs-m3.md)
     * [Base](apple/base/base/README.md)
       * [Runloop](apple/base/base/runloop/README.md)
         * [Runloop检测卡顿](apple/base/base/runloop/runloop-jian-ce-ka-dun.md)
