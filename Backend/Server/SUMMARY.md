@@ -1,7 +1,6 @@
 # Table of contents
 
 * [README](README.md)
-* [Node.js、Deno、Bun](node.js-deno-bun.md)
 * [即时通信](ji-shi-tong-xin/README.md)
   * [准备知识点](ji-shi-tong-xin/zhun-bei-zhi-shi-dian/README.md)
     * [架构](ji-shi-tong-xin/zhun-bei-zhi-shi-dian/jia-gou.md)
@@ -22,3 +21,9 @@
       * [apiKey](api-k65fs7kx2cwzc/swagger/swagger-ui-+-zfru1ggxt/apikey.md)
       * [怎么获取X-API-KEY的？](api-k65fs7kx2cwzc/swagger/swagger-ui-+-zfru1ggxt/x-3r6as1ppvogo7b-api-key.md)
       * [自己的服务器如何定义x-api-key](api-k65fs7kx2cwzc/swagger/swagger-ui-+-zfru1ggxt/x-5r6a96ap0hf2feqfi9d10fxxyel9abh0a-api-key.md)
+* [Node](node/README.md)
+  * [工具](node/gong-ju/README.md)
+    * [nvm](node/gong-ju/nvm/README.md)
+      * [node远程版本](node/gong-ju/nvm/node-yuan-cheng-ban-ben.md)
+      * [安装和基本使用](node/gong-ju/nvm/an-zhuang-he-ji-ben-shi-yong.md)
+  * [Node.js、Deno、Bun](node/node.js-deno-bun.md)
