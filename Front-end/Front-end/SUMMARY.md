@@ -366,6 +366,8 @@
       * [XCode修改支持最低版本](apple/gong-ju/xcode/xcode-xiu-gai-zhi-chi-zui-di-ban-ben.md)
       * [本地服务的网络请求设置](apple/gong-ju/xcode/ben-di-fu-wu-de-wang-luo-qing-qiu-she-zhi.md)
       * [info.plist文件变迁](apple/gong-ju/xcode/info.plist-wen-jian-bian-qian.md)
+      * [Xcode命令](apple/gong-ju/xcode/xcode-ming-ling/README.md)
+        * [xcode-select: error: tool 'xcodebuild' requires Xcode, but active developer directory '/Library/Deve](apple/gong-ju/xcode/xcode-ming-ling/xcode-select-error-tool-xcodebuild-requires-xcode-but-active-developer-directory-library-deve.md)
     * [库工具](apple/gong-ju/ku-gong-ju/README.md)
       * [swift packager](apple/gong-ju/ku-gong-ju/swift-packager/README.md)
         * [基本使用](apple/gong-ju/ku-gong-ju/swift-packager/ji-ben-shi-yong/README.md)
