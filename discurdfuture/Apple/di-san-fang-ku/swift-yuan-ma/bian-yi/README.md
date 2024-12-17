@@ -6,6 +6,14 @@
 
 ## 构建xcode编译swift源码的过程
 
+
+
+### 0、执行编译之前，先执行更新依赖的库
+
+```
+./utils/update-checkout --clone
+```
+
 ### 1、执行构建用于xcode调试的编译命令
 
 {% code title="执行命令" %}
