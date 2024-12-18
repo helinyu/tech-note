@@ -69,6 +69,7 @@
       * [iOS开发中的使用](she-ji-mo-shi/xing-wei-xing/coodinator-xie-tiao-zhe-mo-shi/ios-kai-fa-zhong-de-shi-yong.md)
       * [与其他设计模式的区别](she-ji-mo-shi/xing-wei-xing/coodinator-xie-tiao-zhe-mo-shi/yu-qi-ta-she-ji-mo-shi-de-qu-bie.md)
       * [中介者 vs 协调者](she-ji-mo-shi/xing-wei-xing/coodinator-xie-tiao-zhe-mo-shi/zhong-jie-zhe-vs-xie-tiao-zhe/README.md)
+        * [核心区别](she-ji-mo-shi/xing-wei-xing/coodinator-xie-tiao-zhe-mo-shi/zhong-jie-zhe-vs-xie-tiao-zhe/he-xin-qu-bie.md)
         * [详细对比](she-ji-mo-shi/xing-wei-xing/coodinator-xie-tiao-zhe-mo-shi/zhong-jie-zhe-vs-xie-tiao-zhe/xiang-xi-dui-bi.md)
     * [备忘录](she-ji-mo-shi/xing-wei-xing/bei-wang-lu/README.md)
       * [和栈关系](she-ji-mo-shi/xing-wei-xing/bei-wang-lu/he-zhan-guan-xi/README.md)
