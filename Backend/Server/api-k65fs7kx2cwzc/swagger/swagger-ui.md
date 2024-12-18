@@ -4,7 +4,7 @@
 
 #### 1、 创建一个目录test\_swagger&#x20;
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 2、在目录下初始化，以及安装
 
