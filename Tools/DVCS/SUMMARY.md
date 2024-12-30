@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Git](README.md)
-  * [git回撤commit](git/git-hui-che-commit.md)
+  * [git](git/git/README.md)
+    * [git回撤commit](git/git/git-hui-che-commit.md)
   * [github](git/github/README.md)
     * [github的项目发布release](git/github/github-de-xiang-mu-fa-bu-release.md)
   * [Submodule](git/submodule/README.md)
