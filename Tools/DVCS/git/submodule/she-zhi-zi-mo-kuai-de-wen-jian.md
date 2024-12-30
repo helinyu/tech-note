@@ -55,5 +55,3 @@ git submodule update --recursive --remote
 * `.gitmodules` 文件包含了子模块的基本信息。
 * `git submodule status` 可以列出所有子模块及其当前提交状态。
 * 使用 `git submodule` 命令可以查看所有子模块的基本信息和状态。
-
-这些方法应该能帮助你查看当前项目所依赖的子模块。如果还有其他问题，随时告诉我！

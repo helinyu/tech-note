@@ -1,6 +1,10 @@
 # 设置submodule子模块
 
-在Git中，`submodule` 是一种将一个Git仓库嵌套在另一个Git仓库中的方式，适用于项目之间的依赖关系。以下是如何设置 Git Submodule 的步骤：
+{% hint style="info" %}
+`submodule` 是一种将一个Git仓库嵌套在另一个Git仓库中的方式，适用于项目之间的依赖关系。
+
+Git 子模块可以帮助你管理项目间的依赖，**保证子项目与主项目的版本同步**。
+{% endhint %}
 
 #### 1. 添加 Submodule
 
@@ -79,7 +83,3 @@ git submodule update --remote
     ```bash
     git commit -m "删除子模块"
     ```
-
-#### 总结：
-
-Git 子模块可以帮助你管理项目间的依赖，保证子项目与主项目的版本同步。
