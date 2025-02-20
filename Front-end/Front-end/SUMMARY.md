@@ -99,6 +99,8 @@
       * [Runtime](apple/base/oc/runtime/README.md)
         * [应用场景](apple/base/oc/runtime/ying-yong-chang-jing.md)
   * [iOS](apple/ios/README.md)
+    * [涉及开发环境内容](apple/ios/she-ji-kai-fa-huan-jing-nei-rong/README.md)
+      * [1. 查看模拟器的命令](apple/ios/she-ji-kai-fa-huan-jing-nei-rong/1.-cha-kan-mo-ni-qi-de-ming-ling.md)
     * [开发过程](apple/ios/kai-fa-guo-cheng/README.md)
       * [开发功能点](apple/ios/kai-fa-guo-cheng/kai-fa-gong-neng-dian/README.md)
         * [1、SWiftUI更新UIKit 上的数据](apple/ios/kai-fa-guo-cheng/kai-fa-gong-neng-dian/1swiftui-geng-xin-uikit-shang-de-shu-ju/README.md)
