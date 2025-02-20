@@ -66,6 +66,8 @@
     * [图片加载库](android/kai-fa/tu-pian-jia-zai-ku/README.md)
       * [可选择库](android/kai-fa/tu-pian-jia-zai-ku/ke-xuan-ze-ku.md)
       * [图片加载库添加](android/kai-fa/tu-pian-jia-zai-ku/tu-pian-jia-zai-ku-tian-jia.md)
+  * [上架](android/shang-jia/README.md)
+    * [儿童政策](android/shang-jia/er-tong-zheng-ce.md)
 * [Apple](apple/README.md)
   * [Base](apple/base/README.md)
     * [设备](apple/base/she-bei/README.md)
