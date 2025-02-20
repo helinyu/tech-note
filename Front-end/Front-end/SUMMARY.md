@@ -395,6 +395,7 @@
           * [类比Vue3](apple/library/third/swift-composable-architecture-tca/lei-bi/lei-bi-vue3.md)
   * [工具](apple/gong-ju/README.md)
     * [Xcode](apple/gong-ju/xcode/README.md)
+      * [新Mac运行项目到模拟器上](apple/gong-ju/xcode/xin-mac-yun-xing-xiang-mu-dao-mo-ni-qi-shang.md)
       * [基础bug](apple/gong-ju/xcode/ji-chu-bug/README.md)
         * [数组操作bug](apple/gong-ju/xcode/ji-chu-bug/shu-zu-cao-zuo-bug.md)
       * [XCode编辑快捷键](apple/gong-ju/xcode/xcode-bian-ji-kuai-jie-jian.md)
