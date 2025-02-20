@@ -394,6 +394,7 @@
           * [类比React](apple/library/third/swift-composable-architecture-tca/lei-bi/lei-bi-react.md)
           * [类比Vue3](apple/library/third/swift-composable-architecture-tca/lei-bi/lei-bi-vue3.md)
   * [工具](apple/gong-ju/README.md)
+    * [购买苹果开发者账号【中国大陆】](apple/gong-ju/gou-mai-ping-guo-kai-fa-zhe-zhang-hao-zhong-guo-da-lu.md)
     * [Charles](apple/gong-ju/charles/README.md)
       * [Charles 监听https请求\[iOS开发\]](apple/gong-ju/charles/charles-jian-ting-https-qing-qiu-ios-kai-fa.md)
     * [Xcode](apple/gong-ju/xcode/README.md)
