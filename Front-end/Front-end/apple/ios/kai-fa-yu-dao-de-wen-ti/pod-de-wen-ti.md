@@ -1,16 +1,72 @@
 # pod的问题
 
+## 1. pod install 出现错误NoMethodError - undefined method 'name' for an instance of Xcodeproj::Project::Object::PBXSourcesBuildPhase
+
+1. 很可能 **库** 的版本不对
+2. podfile.lock文件的影响，需要重新更新pod内容，要将pod相关的内容删除完，重新安装
+   1. podfile.lock 文件锁死了，可以考虑删除
+   2. rm -rf Podsrm Podfile.lockrm -rf \*.xcworkspacepod install ,, 以及打开.project.xcodej 文件， 删除和pod有关的文件。
+3. ˙终端执行命令：
+
+{% code overflow="wrap" %}
+```
+sed -i -e 's/build_phase.name/build_phase.display_name/g' "$(gem info xcodeproj --version 1.27.0  | grep 'Installed at:' | cut -d':' -f 2 | xargs)/gems/xcodeproj-1.27.0/lib/xcodeproj/project/object/file_system_synchronized_exception_set.rb" 
+```
+{% endcode %}
 
 
-#### 1. pod install 出现错误NoMethodError - undefined method 'name' for an instance of Xcodeproj::Project::Object::PBXSourcesBuildPhase
 
-这个错误通常发生在 `Podfile` 或者 `Podfile.lock` 与项目的 Xcode 配置存在不一致时，尤其是当 CocoaPods 与 Xcode 的版本不兼容或某个 pod 的配置出现问题时
+## 2. SDK does not contain 'libarclite' at the path '/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite\_iphonesimulator.a'; try increasing the minimum deployment target
 
-删除.Podfile.lock ，然后重新 pod install安装第三方库。&#x20;
+要设置最低的版本 , 可能有些库和有些版本匹配不上。
 
+```
+post_install do |installer|
+    installer.generated_projects.each do |project|
+        project.targets.each do |target|
+            target.build_configurations.each do |config|
+                config.build_settings['IPHONEOS_DEPLOYMENT_TARGET'] = '14.0'
+            end
+        end
+    end
+end
+```
 
+## 3. xcode16 不支持bitcode了
 
-也有可能是网络的问题， 可以先将崩溃的那个pod注释掉，安装了其他的之后，在回来安装崩溃的pod。
+{% embed url="https://help.rongcloud.cn/t/topic/1241" %}
 
+#### Podfile 文件中添加代码：
 
+```
+post_install do |installer|
+  bitcode_strip_path = `xcrun --find bitcode_strip`.chop!
+  
+  def strip_bitcode_from_framework(bitcode_strip_path, framework_relative_path)
+        framework_path = File.join(Dir.pwd, framework_relative_path)
+        command = "#{bitcode_strip_path} #{framework_path} -r -o #{framework_path}"
+        puts "Stripping bitcode: #{command}"
+        system(command)
+  end
 
+  RongCloudIM_Frameworks = [
+  "RongChatRoom",
+  "RongContactCard",
+  "RongCustomerService",
+  "RongDiscussion",
+  "RongIMKit",
+  "RongIMLib",
+  "RongIMLibCore",
+  "RongLocation",
+  "RongLocationKit",
+  "RongPublicService",
+  "RongSight",
+  "RongSticker"
+  ]
+
+  RongCloudIM_Frameworks.each do |framework_name|
+    framework_relative_path ="Pods/RongCloudIM/RongCloudIM/#{framework_name}.xcframework/ios-arm64_armv7/#{framework_name}.framework/#{framework_name}"
+    strip_bitcode_from_framework(bitcode_strip_path, framework_relative_path)
+  end
+end
+```
