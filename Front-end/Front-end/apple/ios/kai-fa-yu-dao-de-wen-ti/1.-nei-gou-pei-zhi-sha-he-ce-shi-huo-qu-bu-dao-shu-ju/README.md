@@ -43,7 +43,7 @@ productId 没有对应上
 
 编辑法律实体正确之后，就会有邀请填写银行卡的内容。&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 填写上有关法务的内容。
 
@@ -51,7 +51,7 @@ productId 没有对应上
 
 #### 可能3：点击了 “添加以供审核” —— 要求我们填写的信息以及商品都需要经过审核，所以不要点击。
 
-<figure><img src="../../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
