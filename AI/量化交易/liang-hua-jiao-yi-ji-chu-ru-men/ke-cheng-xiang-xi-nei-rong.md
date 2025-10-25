@@ -1,3 +1,7 @@
+---
+description: https://www.imooc.com/learn/1054
+---
+
 # 课程详细内容
 
 ## 量化交易.pdf 内容完整整理（含图片版）
