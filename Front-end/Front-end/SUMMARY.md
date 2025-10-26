@@ -191,6 +191,8 @@
       * [1. 内购配置沙盒测试获取不到数据](apple/ios/kai-fa-yu-dao-de-wen-ti/1.-nei-gou-pei-zhi-sha-he-ce-shi-huo-qu-bu-dao-shu-ju/README.md)
         * [点击：添加以供审核 按钮的影响](apple/ios/kai-fa-yu-dao-de-wen-ti/1.-nei-gou-pei-zhi-sha-he-ce-shi-huo-qu-bu-dao-shu-ju/dian-ji-tian-jia-yi-gong-shen-he-an-niu-de-ying-xiang.md)
       * [2.火山RTC的sdk配置不同的target](apple/ios/kai-fa-yu-dao-de-wen-ti/2.-huo-shan-rtc-de-sdk-pei-zhi-bu-tong-de-target.md)
+      * [Bugs](apple/ios/kai-fa-yu-dao-de-wen-ti/bugs/README.md)
+        * [SDWebImage](apple/ios/kai-fa-yu-dao-de-wen-ti/bugs/sdwebimage.md)
   * [Mac](apple/mac/README.md)
     * [非技术问题](apple/mac/fei-ji-shu-wen-ti/README.md)
       * [屏幕录制涉及到授权限](apple/mac/fei-ji-shu-wen-ti/ping-mu-lu-zhi-she-ji-dao-shou-quan-xian/README.md)
