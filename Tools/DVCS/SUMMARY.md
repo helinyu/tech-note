@@ -3,7 +3,7 @@
 * [Git](README.md)
   * [git](git/git/README.md)
     * [git回撤commit](git/git/git-hui-che-commit.md)
-    * [worktree](git/git/worktree.md)
+    * [git一个目录多份修改worktree](git/git/git-yi-ge-mu-lu-duo-fen-xiu-gai-worktree.md)
   * [github](git/github/README.md)
     * [github的项目发布release](git/github/github-de-xiang-mu-fa-bu-release.md)
   * [Submodule](git/submodule/README.md)
