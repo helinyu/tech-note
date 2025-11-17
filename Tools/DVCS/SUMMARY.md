@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Git](README.md)
+  * [git工具](git/git-gong-ju/README.md)
+    * [还在用 git blame？这个工具3秒告诉你代码归属，新项目必备！](git/git-gong-ju/hai-zai-yong-git-blame-zhe-ge-gong-ju-3-miao-gao-su-ni-dai-ma-gui-shu-xin-xiang-mu-bi-bei.md)
   * [git](git/git/README.md)
     * [git回撤commit](git/git/git-hui-che-commit.md)
     * [git一个目录多份修改worktree](git/git/git-yi-ge-mu-lu-duo-fen-xiu-gai-worktree.md)
