@@ -69,6 +69,8 @@
   * [上架](android/shang-jia/README.md)
     * [儿童政策](android/shang-jia/er-tong-zheng-ce.md)
 * [Apple](apple/README.md)
+  * [Swift工具](apple/swift-gong-ju/README.md)
+    * [Swift版本管理](apple/swift-gong-ju/swift-ban-ben-guan-li.md)
   * [账号问题](apple/zhang-hao-wen-ti/README.md)
     * [1. 使用哪些账号比较容易过审](apple/zhang-hao-wen-ti/1.-shi-yong-na-xie-zhang-hao-bi-jiao-rong-yi-guo-shen.md)
     * [2. iOS包上架](apple/zhang-hao-wen-ti/2.-ios-bao-shang-jia/README.md)
