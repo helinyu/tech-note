@@ -473,6 +473,8 @@
 * [HarmonyOS](harmonyos/README.md)
   * [概念点](harmonyos/gai-nian-dian/README.md)
     * [openEuler、HarmonyOS 、 OpenHarmony](harmonyos/gai-nian-dian/openeuler-harmonyos-openharmony.md)
+  * [错误锦集](harmonyos/cuo-wu-jin-ji/README.md)
+    * [在flutter上创建鸿蒙包运行报错](harmonyos/cuo-wu-jin-ji/zai-flutter-shang-chuang-jian-hong-meng-bao-yun-xing-bao-cuo.md)
 * [————————](undefined-1.md)
 * [未定](wei-ding/README.md)
   * [副作用](wei-ding/fu-zuo-yong.md)
